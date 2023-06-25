@@ -11,7 +11,7 @@ const path = require('path');
 require('./connection')
 // Define your IP address and allowed domain
 const allowedIP = '192.168.31.89';
-const allowedDomain = 'yourdomain.com';
+const allowedDomain = 'http://yourdomain.com';
 
 
 
