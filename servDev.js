@@ -17,15 +17,17 @@ const allowedDomain = 'http://yourdomain.com';
 
 app.use("/assets", express.static(path.join(__dirname, "assets")));
 // Enable CORS only for your IP address and allowed domain
-app.use(cors({
-  origin: function (origin, callback) {
-    if (origin === allowedDomain || origin === `http://${allowedIP}:3000`) {
-      callback(null, true);
-    } else {
-      callback('Not allowed by CORS');
-    }
-  }
-}));
+// app.use(cors({
+//   origin: function (origin, callback) {
+//     if (origin === allowedDomain || origin === `http://${allowedIP}:3000`) {
+//       callback(null, true);
+//     } else {
+//       callback('Not allowed by CORS');
+//     }
+//   }
+// }));
+
+app.use(cors());
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 
