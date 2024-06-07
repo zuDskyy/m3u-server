@@ -39,7 +39,7 @@ app.use("/api", uploadListRoute);
 app.get('/:originalName', (req,res) => {
   const {originalName} = req.params
   try{
-    res.send(M3U.parse(fs.readFileSync(path.join(__dirname, `m3ulist/${originalName}`), { encoding: "utf8" })))    
+    res.send(M3U.parse(fs.readFileSync(path.join(__dirname, `./m3ulist/${originalName}`), { encoding: "utf8" })))    
   }catch(err){
     res.status(500).json("no such file or directory")
   }
