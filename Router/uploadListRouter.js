@@ -13,7 +13,7 @@ app.use(morgan("common"));
 
 const m3ufileStorage = multer.diskStorage({
     destination:(req,file,cb) => {
-        cb(null, "m3ulist");
+        cb(null,  "..", "m3ulist");
     },
     filename:(req,file,cb) => {
         cb(null,req.body.name);
@@ -38,7 +38,7 @@ router.post('/upload/m3ufile', uploadm3ufileStorage.single('file'), async (req,r
        const playlistSaver = await playlist.save();
         return res.status(200).json({playlist: playlistSaver, Message: "M3u file upload successfully !"});
     }catch(err){
-        console.log(err)
+        console.log("err", err)
         return res.status(500).json("File is not uploaded")
     }  
 })
