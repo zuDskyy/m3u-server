@@ -7,10 +7,9 @@ const helmet = require('helmet');
 const M3ulist = require("../Models/M3ulist");
 const path = require("path");
 const fs = require("fs");
+
 app.use(helmet());
 app.use(morgan("common"));
-
-
 
 const m3ufileStorage = multer.diskStorage({
     destination:(req,file,cb) => {
@@ -21,31 +20,16 @@ const m3ufileStorage = multer.diskStorage({
     }
 })
 
-
-
 const uploadm3ufileStorage = multer({storage: m3ufileStorage})
-
-
-
-
- 
-
-  
 
 router.post('/upload/m3ufile', uploadm3ufileStorage.single('file'), async (req,res) => {
     const {secret_id, list_name} = req.query;
 
-    try{
-      
+    try{  
          if(!secret_id && !list_name ){
             return res.status(400).json("Invalid Parameters or Something else");
          }
-
-         
-
-          
-
-          
+        
           const playlist = new M3ulist({
              listname: list_name,
              originalName: req.body.name || "",
@@ -54,9 +38,9 @@ router.post('/upload/m3ufile', uploadm3ufileStorage.single('file'), async (req,r
        const playlistSaver = await playlist.save();
         return res.status(200).json({playlist: playlistSaver, Message: "M3u file upload successfully !"});
     }catch(err){
+        console.log(err)
         return res.status(500).json("File is not uploaded")
-    }
-    
+    }  
 })
 
 
@@ -85,8 +69,6 @@ router.delete('/delete/m3ufile/:id', async (req, res) => {
         // File does not exist
         return res.status(404).json("File not found");
       } 
-      
-    
     } catch (err) {
       console.error(err);
       return res.status(500).json("Error deleting the file");
