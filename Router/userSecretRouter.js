@@ -6,7 +6,8 @@ router.get('/secretId', async (req,res) => {
     const {secret_id} =  req.query;
       const userfindBySecretId = await User.findOne({secretId :  secret_id});
    if(userfindBySecretId) {
-      return res.status(301).json({message:"User Secret Id already exist"});
+      res.status(301).json({message:"User Secret Id already exist"});
+      return;
     }
 
     const secretId = generateSecretId();

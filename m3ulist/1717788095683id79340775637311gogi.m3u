@@ -1,0 +1,2083 @@
+#EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
+#EXTINF:-1 tvg-id="vip-megahit" catchup="shift" tvg-logo="http://1lot.tv/ch/17103.png" catchup-days="7" group-title="Кино",Viju+ Megahit HD
+http://s.only4.tv/17103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vip-premiere" catchup="shift" tvg-logo="http://1lot.tv/ch/17104.png" catchup-days="7" group-title="Кино",Viju+ Premiere HD
+http://s.only4.tv/17104/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vip-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/17102.png" catchup-days="7" group-title="Кино",Viju+ Comedy HD
+http://s.only4.tv/17102/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vip-serial" catchup="shift" tvg-logo="http://1lot.tv/ch/0109.png" catchup-days="7" group-title="Кино",Viju+ Serial HD
+http://s.only4.tv/0109/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vip-comedy-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/7748.png" catchup-days="1" group-title="Кино",Viasat Kino Comedy HD
+http://s.only4.tv/7748/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vip-megahit-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/7749.png" catchup-days="1" group-title="Кино",Viasat Kino Megahit HD
+http://s.only4.tv/7749/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premialnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0121.png" catchup-days="7" group-title="Кино",Премиальное HD
+http://s.only4.tv/0121/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0119.png" catchup-days="7" group-title="Кино",Шокирующее HD
+http://s.only4.tv/0119/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="komedijnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0120.png" catchup-days="7" group-title="Кино",Комедийное HD
+http://s.only4.tv/0120/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="romantichnoe" catchup="shift" tvg-logo="http://1lot.tv/ch/5537.png" catchup-days="7" group-title="Кино",Романтичное HD
+http://s.only4.tv/5537/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domkino-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/2205.png" catchup-days="7" group-title="Кино",Дом Кино Премиум HD
+http://s.only4.tv/2205/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/6449.png" catchup-days="7" group-title="Кино",Amedia Premium HD
+http://s.only4.tv/6449/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/2104.png" catchup-days="1" group-title="Кино",Amedia Premium
+http://s.only4.tv/2104/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinopremiera-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/12101.png" catchup-days="7" group-title="Кино",Кинопремьера HD
+http://s.only4.tv/12101/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0122.png" catchup-days="7" group-title="Кино",Остросюжетное HD
+http://s.only4.tv/0122/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fox" catchup="shift" tvg-logo="http://1lot.tv/ch/17101.png" catchup-days="2" group-title="Кино",FX HD
+http://s.only4.tv/17101/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fox" catchup="shift" tvg-logo="http://1lot.tv/ch/8160.png" catchup-days="3" group-title="Кино",FX
+http://s.only4.tv/8160/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kineko" catchup="shift" tvg-logo="http://1lot.tv/ch/8497.png" catchup-days="2" group-title="Кино",Кинеко HD
+http://s.only4.tv/8497/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kineko" catchup="shift" tvg-logo="http://1lot.tv/ch/8498.png" catchup-days="7" group-title="Кино",Кинеко
+http://s.only4.tv/8498/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="foxlife" catchup="shift" tvg-logo="http://1lot.tv/ch/0207.png" catchup-days="2" group-title="Кино",FX Life
+http://s.only4.tv/0207/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="foxlife" catchup="shift" tvg-logo="http://1lot.tv/ch/8499.png" catchup-days="2" group-title="Кино",FX Life HD
+http://s.only4.tv/8499/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia1" catchup="shift" tvg-logo="http://1lot.tv/ch/6446.png" catchup-days="7" group-title="Кино",Amedia 1 HD
+http://s.only4.tv/6446/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia1" catchup="shift" tvg-logo="http://1lot.tv/ch/2102.png" catchup-days="1" group-title="Кино",Amedia 1
+http://s.only4.tv/2102/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia2" catchup="shift" tvg-logo="http://1lot.tv/ch/6447.png" catchup-days="7" group-title="Кино",Amedia 2 HD
+http://s.only4.tv/6447/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia2" catchup="shift" tvg-logo="http://1lot.tv/ch/2117.png" catchup-days="7" group-title="Кино",Amedia 2
+http://s.only4.tv/2117/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia-hit" catchup="shift" tvg-logo="http://1lot.tv/ch/6448.png" catchup-days="1" group-title="Кино",Amedia Hit HD
+http://s.only4.tv/6448/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amedia-hit" catchup="shift" tvg-logo="http://1lot.tv/ch/2103.png" catchup-days="1" group-title="Кино",Amedia Hit
+http://s.only4.tv/2103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7833.png" catchup-days="1" group-title="Кино",Red HD
+http://s.only4.tv/7833/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/710.png" catchup-days="7" group-title="Кино",Red
+http://s.only4.tv/710/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-scifi" catchup="shift" tvg-logo="http://1lot.tv/ch/7834.png" catchup-days="1" group-title="Кино",Sci-Fi HD
+http://s.only4.tv/7834/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-scifi" catchup="shift" tvg-logo="http://1lot.tv/ch/711.png" catchup-days="3" group-title="Кино",Sci-Fi
+http://s.only4.tv/711/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-turbo" catchup="shift" tvg-logo="http://1lot.tv/ch/7835.png" catchup-days="1" group-title="Кино",Black HD
+http://s.only4.tv/7835/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-turbo" catchup="shift" tvg-logo="http://1lot.tv/ch/712.png" catchup-days="7" group-title="Кино",Black
+http://s.only4.tv/712/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinoxit" catchup="shift" tvg-logo="http://1lot.tv/ch/6327.png" catchup-days="7" group-title="Кино",Кинохит HD
+http://s.only4.tv/6327/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinoxit" catchup="shift" tvg-logo="http://1lot.tv/ch/107.png" catchup-days="7" group-title="Кино",Кинохит
+http://s.only4.tv/107/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinomiks" catchup="shift" tvg-logo="http://1lot.tv/ch/6328.png" catchup-days="7" group-title="Кино",Киномикс HD
+http://s.only4.tv/6328/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinomiks" catchup="shift" tvg-logo="http://1lot.tv/ch/105.png" catchup-days="7" group-title="Кино",Киномикс
+http://s.only4.tv/105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinosvidanie" catchup="shift" tvg-logo="http://1lot.tv/ch/6325.png" catchup-days="7" group-title="Кино",Киносвидание HD
+http://s.only4.tv/6325/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinosvidanie" catchup="shift" tvg-logo="http://1lot.tv/ch/106.png" catchup-days="7" group-title="Кино",Киносвидание
+http://s.only4.tv/106/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinokomedia" catchup="shift" tvg-logo="http://1lot.tv/ch/6329.png" catchup-days="7" group-title="Кино",Кинокомедия HD
+http://s.only4.tv/6329/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinokomedia" catchup="shift" tvg-logo="http://1lot.tv/ch/108.png" catchup-days="7" group-title="Кино",Кинокомедия
+http://s.only4.tv/108/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000" catchup="shift" tvg-logo="http://1lot.tv/ch/5581.png" catchup-days="7" group-title="Кино",Viju TV1000 HD
+http://s.only4.tv/5581/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000" catchup="shift" tvg-logo="http://1lot.tv/ch/19102.png" catchup-days="2" group-title="Кино",Viju TV1000
+http://s.only4.tv/19102/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-action" catchup="shift" tvg-logo="http://1lot.tv/ch/6450.png" catchup-days="7" group-title="Кино",Viju TV1000 Action HD
+http://s.only4.tv/6450/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-action" catchup="shift" tvg-logo="http://1lot.tv/ch/19103.png" catchup-days="2" group-title="Кино",Viju TV1000 Action
+http://s.only4.tv/19103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/6324.png" catchup-days="7" group-title="Кино",Viju TV1000 Русское HD
+http://s.only4.tv/6324/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/19104.png" catchup-days="2" group-title="Кино",Viju TV1000 Русское
+http://s.only4.tv/19104/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-worldkino" catchup="shift" tvg-logo="http://1lot.tv/ch/6300.png" catchup-days="1" group-title="Кино",Viasat Kino World
+http://s.only4.tv/6300/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-action-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/7735.png" catchup-days="7" group-title="Кино",Viasat Kino Action HD
+http://s.only4.tv/7735/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/7737.png" catchup-days="1" group-title="Кино",Viasat Kino HD
+http://s.only4.tv/7737/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="paramount-comedy-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6451.png" catchup-days="7" group-title="Кино",Comedy Central HD
+http://s.only4.tv/6451/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="paramount-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/19118.png" catchup-days="1" group-title="Кино",Comedy Central
+http://s.only4.tv/19118/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nst" catchup="shift" tvg-logo="http://1lot.tv/ch/804.png" catchup-days="3" group-title="Кино",НСТ
+http://s.only4.tv/804/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv3-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/6466.png" catchup-days="7" group-title="Кино",ТВ-3 HD
+http://s.only4.tv/6466/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv3-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/1008.png" catchup-days="7" group-title="Кино",ТВ-3
+http://s.only4.tv/1008/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tv1000-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/5585.png" catchup-days="7" group-title="Кино",Go3 Films HD
+http://s.only4.tv/5585/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muzhskoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/6266.png" catchup-days="7" group-title="Кино",Мужское кино HD
+http://s.only4.tv/6266/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muzhskoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/0287.png" catchup-days="7" group-title="Кино",Мужское кино
+http://s.only4.tv/0287/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kino-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0147.png" catchup-days="7" group-title="Кино",Кино ТВ
+http://s.only4.tv/0147/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="evrokino" catchup="shift" tvg-logo="http://1lot.tv/ch/6453.png" catchup-days="2" group-title="Кино",Еврокино HD
+http://s.only4.tv/6453/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="evrokino" catchup="shift" tvg-logo="http://1lot.tv/ch/0275.png" catchup-days="7" group-title="Кино",Еврокино
+http://s.only4.tv/0275/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-illuzion" catchup="shift" tvg-logo="http://1lot.tv/ch/6454.png" catchup-days="7" group-title="Кино",Русский иллюзион HD
+http://s.only4.tv/6454/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-illuzion" catchup="shift" tvg-logo="http://1lot.tv/ch/2111.png" catchup-days="1" group-title="Кино",Русский иллюзион
+http://s.only4.tv/2111/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rodnoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/115.png" catchup-days="7" group-title="Кино",Родное кино
+http://s.only4.tv/115/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-novoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/6331.png" catchup-days="7" group-title="Кино",Наше новое кино HD
+http://s.only4.tv/6331/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-novoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/116.png" catchup-days="7" group-title="Кино",Наше новое кино
+http://s.only4.tv/116/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="lubimoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/722.png" catchup-days="7" group-title="Кино",Любимое кино HD
+http://s.only4.tv/722/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russkaya-komedia" catchup="shift" tvg-logo="http://1lot.tv/ch/1115.png" catchup-days="7" group-title="Кино",Комедия (ВГТРК)
+http://s.only4.tv/1115/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-bestseller" catchup="shift" tvg-logo="http://1lot.tv/ch/421.png" catchup-days="7" group-title="Кино",Русский бестселлер
+http://s.only4.tv/421/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-roman" catchup="shift" tvg-logo="http://1lot.tv/ch/6455.png" catchup-days="3" group-title="Кино",Русский роман HD
+http://s.only4.tv/6455/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-roman" catchup="shift" tvg-logo="http://1lot.tv/ch/424.png" catchup-days="1" group-title="Кино",Русский роман
+http://s.only4.tv/424/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0139.png" catchup-days="7" group-title="Кино",Любимое HD
+http://s.only4.tv/0139/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashehd" catchup="shift" tvg-logo="http://1lot.tv/ch/0123.png" catchup-days="7" group-title="Кино",Наше HD
+http://s.only4.tv/0123/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dushevnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0107.png" catchup-days="7" group-title="Кино",Душевное HD
+http://s.only4.tv/0107/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="hollywood-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/17108.png" catchup-days="7" group-title="Кино",Hollywood HD
+http://s.only4.tv/17108/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinosemiya" catchup="shift" tvg-logo="http://1lot.tv/ch/6326.png" catchup-days="7" group-title="Кино",Киносемья HD
+http://s.only4.tv/6326/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinosemiya" catchup="shift" tvg-logo="http://1lot.tv/ch/119.png" catchup-days="7" group-title="Кино",Киносемья
+http://s.only4.tv/119/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinoseria" catchup="shift" tvg-logo="http://1lot.tv/ch/6330.png" catchup-days="7" group-title="Кино",Киносерия HD
+http://s.only4.tv/6330/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinoseria" catchup="shift" tvg-logo="http://1lot.tv/ch/113.png" catchup-days="7" group-title="Кино",Киносерия
+http://s.only4.tv/113/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mir-seriala" catchup="shift" tvg-logo="http://1lot.tv/ch/719.png" catchup-days="7" group-title="Кино",Мир сериала
+http://s.only4.tv/719/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domkino" catchup="shift" tvg-logo="http://1lot.tv/ch/820.png" catchup-days="7" group-title="Кино",Дом кино
+http://s.only4.tv/820/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntv-serial" catchup="shift" tvg-logo="http://1lot.tv/ch/408.png" catchup-days="1" group-title="Кино",HTB Сериал
+http://s.only4.tv/408/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntv-xit" catchup="shift" tvg-logo="http://1lot.tv/ch/412.png" catchup-days="1" group-title="Кино",HTB Хит
+http://s.only4.tv/412/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zee-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/707.png" catchup-days="1" group-title="Кино",Индия
+http://s.only4.tv/707/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="illuzion-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/8179.png" catchup-days="7" group-title="Кино",Иллюзион + HD
+http://s.only4.tv/8179/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="illuzion-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/0293.png" catchup-days="3" group-title="Кино",Иллюзион+
+http://s.only4.tv/0293/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="indiyskoe-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/104.png" catchup-days="7" group-title="Кино",Индийское кино
+http://s.only4.tv/104/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bolt" catchup="shift" tvg-logo="http://1lot.tv/ch/6188.png" catchup-days="7" group-title="Кино",Bolt
+http://s.only4.tv/6188/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bolt-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/7840.png" catchup-days="1" group-title="Кино",Bolt HD
+http://s.only4.tv/7840/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dorama" catchup="shift" tvg-logo="http://1lot.tv/ch/6456.png" catchup-days="3" group-title="Кино",Дорама HD
+http://s.only4.tv/6456/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dorama" catchup="shift" tvg-logo="http://1lot.tv/ch/430.png" catchup-days="3" group-title="Кино",Дорама
+http://s.only4.tv/430/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cinema-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/6513.png" catchup-days="1" group-title="Кино",Cinema HD
+http://s.only4.tv/6513/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cinema-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/5533.png" catchup-days="7" group-title="Кино",Cinema
+http://s.only4.tv/5533/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="feniks-plus-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/5535.png" catchup-days="7" group-title="Кино",Феникс+Кино
+http://s.only4.tv/5535/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="filmbox-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/5558.png" catchup-days="7" group-title="Кино",FilmBox
+http://s.only4.tv/5558/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="filmbox-arthouse" catchup="shift" tvg-logo="http://1lot.tv/ch/5536.png" catchup-days="7" group-title="Кино",FilmBox Arthouse
+http://s.only4.tv/5536/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-detektiv" catchup="shift" tvg-logo="http://1lot.tv/ch/0277.png" catchup-days="2" group-title="Кино",Русский Детектив
+http://s.only4.tv/0277/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinouzhas" catchup="shift" tvg-logo="http://1lot.tv/ch/5570.png" catchup-days="7" group-title="Кино",Киноужас HD
+http://s.only4.tv/5570/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="arsenaltv" catchup="shift" tvg-logo="http://1lot.tv/ch/0222.png" catchup-days="3" group-title="Кино",Арсенал HD
+http://s.only4.tv/0222/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pobeda" catchup="shift" tvg-logo="http://1lot.tv/ch/6230.png" catchup-days="7" group-title="Кино",Победа HD
+http://s.only4.tv/6230/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pobeda" catchup="shift" tvg-logo="http://1lot.tv/ch/5534.png" catchup-days="7" group-title="Кино",Победа
+http://s.only4.tv/5534/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="denpobedy" catchup="shift" tvg-logo="http://1lot.tv/ch/6214.png" catchup-days="7" group-title="Кино",День Победы
+http://s.only4.tv/6214/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="blokbaster-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6206.png" catchup-days="7" group-title="Кино",Блокбастер HD
+http://s.only4.tv/6206/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kamedi" catchup="shift" tvg-logo="http://1lot.tv/ch/6207.png" catchup-days="7" group-title="Кино",Камеди HD
+http://s.only4.tv/6207/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinopokaz-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6208.png" catchup-days="5" group-title="Кино",Кинопоказ HD
+http://s.only4.tv/6208/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nash-kinopokaz" catchup="shift" tvg-logo="http://1lot.tv/ch/6209.png" catchup-days="7" group-title="Кино",Наш Кинопоказ HD
+http://s.only4.tv/6209/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pro-lyubov" catchup="shift" tvg-logo="http://1lot.tv/ch/6210.png" catchup-days="7" group-title="Кино",Про Любовь HD
+http://s.only4.tv/6210/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="khit-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6212.png" catchup-days="7" group-title="Кино",Хит HD
+http://s.only4.tv/6212/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="star-family" catchup="shift" tvg-logo="http://1lot.tv/ch/6213.png" catchup-days="7" group-title="Кино",Star Family HD
+http://s.only4.tv/6213/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="star-cinema-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6457.png" catchup-days="7" group-title="Кино",Star Cinema UA HD
+http://s.only4.tv/6457/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="star-family" catchup="shift" tvg-logo="http://1lot.tv/ch/7842.png" catchup-days="3" group-title="Кино",Star Family
+http://s.only4.tv/7842/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="star-cinema-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/826.png" catchup-days="1" group-title="Кино",Star Cinema
+http://s.only4.tv/826/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="star-cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/7841.png" catchup-days="1" group-title="Кино",Star Cinema HD
+http://s.only4.tv/7841/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bollywood-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0251.png" catchup-days="1" group-title="Кино",Bollywood HD
+http://s.only4.tv/0251/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tvxxi" catchup="shift" tvg-logo="http://1lot.tv/ch/2116.png" catchup-days="1" group-title="Кино",ТВ 21
+http://s.only4.tv/2116/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinosat" catchup="shift" tvg-logo="http://1lot.tv/ch/6229.png" catchup-days="7" group-title="Кино",КиноСат
+http://s.only4.tv/6229/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premierehd1" catchup="shift" tvg-logo="http://1lot.tv/ch/6256.png" catchup-days="1" group-title="Кино",Premiere HD 1
+http://s.only4.tv/6256/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premierehd2" catchup="shift" tvg-logo="http://1lot.tv/ch/6257.png" catchup-days="1" group-title="Кино",Premiere HD 2
+http://s.only4.tv/6257/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premierehd3" catchup="shift" tvg-logo="http://1lot.tv/ch/6258.png" catchup-days="1" group-title="Кино",Premiere HD 3
+http://s.only4.tv/6258/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premierehd4" catchup="shift" tvg-logo="http://1lot.tv/ch/6259.png" catchup-days="1" group-title="Кино",Premiere HD 4
+http://s.only4.tv/6259/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="shot-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/121.png" catchup-days="7" group-title="Кино",Shot TV
+http://s.only4.tv/121/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="retro-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6263.png" catchup-days="1" group-title="Кино",Ретро
+http://s.only4.tv/6263/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6267.png" catchup-days="7" group-title="Кино",Наше Мужское HD
+http://s.only4.tv/6267/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="strashnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0218.png" catchup-days="7" group-title="Кино",Страшное HD
+http://s.only4.tv/0218/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mosfilm" catchup="shift" tvg-logo="http://1lot.tv/ch/6295.png" catchup-days="7" group-title="Кино",Мосфильм
+http://s.only4.tv/6295/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="filmua-drama" catchup="shift" tvg-logo="http://1lot.tv/ch/6302.png" catchup-days="1" group-title="Кино",Film.Ua Drama HD
+http://s.only4.tv/6302/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="filmua-drama" catchup="shift" tvg-logo="http://1lot.tv/ch/6303.png" catchup-days="1" group-title="Кино",Film.Ua Drama
+http://s.only4.tv/6303/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premium-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6499.png" catchup-days="7" group-title="Кино",Premium HD
+http://s.only4.tv/6499/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="premiere-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6498.png" catchup-days="7" group-title="Кино",Premiere HD
+http://s.only4.tv/6498/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vhshd" catchup="shift" tvg-logo="http://1lot.tv/ch/7198.png" catchup-days="1" group-title="Кино",VHS HD
+http://s.only4.tv/7198/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="thriller-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6500.png" catchup-days="7" group-title="Кино",Thriller HD
+http://s.only4.tv/6500/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rukino-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6501.png" catchup-days="7" group-title="Кино",РуКино HD
+http://s.only4.tv/6501/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="serial-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6502.png" catchup-days="7" group-title="Кино",Serial HD
+http://s.only4.tv/6502/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="paradise-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6559.png" catchup-days="7" group-title="Кино",Paradise HD
+http://s.only4.tv/6559/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="victory-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6560.png" catchup-days="7" group-title="Кино",Victory HD
+http://s.only4.tv/6560/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ussr-premieregroup" catchup="shift" tvg-logo="http://1lot.tv/ch/6601.png" catchup-days="7" group-title="Кино",USSR HD
+http://s.only4.tv/6601/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="paradox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6503.png" catchup-days="7" group-title="Кино",Paradox HD
+http://s.only4.tv/6503/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="insomnia-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8117.png" catchup-days="1" group-title="Кино",Insomnia HD
+http://s.only4.tv/8117/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cine-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/6504.png" catchup-days="5" group-title="Кино",Cine+
+http://s.only4.tv/6504/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cine-plus-hit-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6506.png" catchup-days="5" group-title="Кино",Cine+ Hit HD
+http://s.only4.tv/6506/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cine-plus-kids" catchup="shift" tvg-logo="http://1lot.tv/ch/6507.png" catchup-days="7" group-title="Кино",Cine+ Kids
+http://s.only4.tv/6507/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cine-plus-ledend" catchup="shift" tvg-logo="http://1lot.tv/ch/6508.png" catchup-days="2" group-title="Кино",Cine+ Legend
+http://s.only4.tv/6508/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinojam1" catchup="shift" tvg-logo="http://1lot.tv/ch/6509.png" catchup-days="5" group-title="Кино",Киноджем 1 HD
+http://s.only4.tv/6509/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinojam2" catchup="shift" tvg-logo="http://1lot.tv/ch/6510.png" catchup-days="7" group-title="Кино",Киноджем 2 HD
+http://s.only4.tv/6510/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="backustv" catchup="shift" tvg-logo="http://1lot.tv/ch/6614.png" catchup-days="1" group-title="Кино",Backus TV
+http://s.only4.tv/6614/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="backustv-horror" catchup="shift" tvg-logo="http://1lot.tv/ch/6615.png" catchup-days="1" group-title="Кино",Backus TV Dark
+http://s.only4.tv/6615/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-soyuz-filmy-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6625.png" catchup-days="2" group-title="Кино",UZ-Союз Фильмы HD
+http://s.only4.tv/6625/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-fantastika-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6701.png" catchup-days="1" group-title="Кино",UZ-Фантастика HD
+http://s.only4.tv/6701/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-katactrofa-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7194.png" catchup-days="1" group-title="Кино",UZ-Катастрофа HD
+http://s.only4.tv/7194/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kino5" catchup="shift" tvg-logo="http://1lot.tv/ch/7215.png" catchup-days="1" group-title="Кино",UZ-Kino5 HD
+http://s.only4.tv/7215/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-svaty" catchup="shift" tvg-logo="http://1lot.tv/ch/7217.png" catchup-days="1" group-title="Кино",UZ-Сваты HD
+http://s.only4.tv/7217/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-tvhd" catchup="shift" tvg-logo="http://1lot.tv/ch/7222.png" catchup-days="1" group-title="Кино",UZ-TV HD
+http://s.only4.tv/7222/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-komedia-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6705.png" catchup-days="1" group-title="Кино",UZ-Комедия HD
+http://s.only4.tv/6705/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-uzhasnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6706.png" catchup-days="1" group-title="Кино",UZ-Ужасное ТВ HD
+http://s.only4.tv/6706/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-prikluchenie-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6707.png" catchup-days="1" group-title="Кино",UZ-Приключение HD
+http://s.only4.tv/6707/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-boycovskino-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6708.png" catchup-days="1" group-title="Кино",UZ-Бойцовское кино HD
+http://s.only4.tv/6708/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kino1" catchup="shift" tvg-logo="http://1lot.tv/ch/6711.png" catchup-days="1" group-title="Кино",UZ-Kino1 HD
+http://s.only4.tv/6711/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kino2" catchup="shift" tvg-logo="http://1lot.tv/ch/6712.png" catchup-days="1" group-title="Кино",UZ-Kino2 HD
+http://s.only4.tv/6712/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kino3" catchup="shift" tvg-logo="http://1lot.tv/ch/6713.png" catchup-days="1" group-title="Кино",UZ-Kino3 HD
+http://s.only4.tv/6713/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kino4" catchup="shift" tvg-logo="http://1lot.tv/ch/6714.png" catchup-days="1" group-title="Кино",UZ-Kino4 HD
+http://s.only4.tv/6714/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-swiridenko" catchup="shift" tvg-logo="http://1lot.tv/ch/7549.png" catchup-days="1" group-title="Кино",UZ-SWIRIDENKO TV HD
+http://s.only4.tv/7549/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-swiridenko2" catchup="shift" tvg-logo="http://1lot.tv/ch/8006.png" catchup-days="7" group-title="Кино",UZ-SWIRIDENKO TV HD 2
+http://s.only4.tv/8006/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-boeviki-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6715.png" catchup-days="1" group-title="Кино",UZ-Боевики HD
+http://s.only4.tv/6715/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-vitek-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6717.png" catchup-days="1" group-title="Кино",UZ-Витек ТВ HD
+http://s.only4.tv/6717/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kinonews-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6932.png" catchup-days="1" group-title="Кино",UZ-Кино Новинки HD
+http://s.only4.tv/6932/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kinozal-hevc-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6934.png" catchup-days="1" group-title="Кино",UZ-Кинозал HEVC HD
+http://s.only4.tv/6934/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kinokomfort-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7227.png" catchup-days="1" group-title="Кино",UZ-Кинокомфорт
+http://s.only4.tv/7227/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-ruserial-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8245.png" catchup-days="1" group-title="Кино",UZ-Ru Serial HD
+http://s.only4.tv/8245/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-films-60fps" catchup="shift" tvg-logo="http://1lot.tv/ch/8218.png" catchup-days="1" group-title="Кино",UZ-Films 60 fps HD
+http://s.only4.tv/8218/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-turkserial-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8491.png" catchup-days="1" group-title="Кино",UZ-Turk Serial HD
+http://s.only4.tv/8491/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8611.png" catchup-days="1" group-title="Кино",UZ-Fantastic HD
+http://s.only4.tv/8611/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9364.png" catchup-days="1" group-title="Кино",UZ-ALENSAT HD
+http://s.only4.tv/9364/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6802.png" catchup-days="7" group-title="Кино",TOP: 80s
+http://s.only4.tv/6802/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6803.png" catchup-days="7" group-title="Кино",TOP: BUDO HD
+http://s.only4.tv/6803/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6804.png" catchup-days="2" group-title="Кино",TOP: CINEMA HD
+http://s.only4.tv/6804/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6805.png" catchup-days="2" group-title="Кино",TOP: USSR
+http://s.only4.tv/6805/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6806.png" catchup-days="7" group-title="Кино",TOP: MIX
+http://s.only4.tv/6806/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6807.png" catchup-days="2" group-title="Кино",BEST Films HD
+http://s.only4.tv/6807/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6809.png" catchup-days="7" group-title="Кино",LOST HD
+http://s.only4.tv/6809/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6814.png" catchup-days="2" group-title="Кино",ФАНТАСТИКА HD
+http://s.only4.tv/6814/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8026.png" catchup-days="2" group-title="Кино",Фантастика FHD (2.0)
+http://s.only4.tv/8026/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6816.png" catchup-days="2" group-title="Кино",The X-Files
+http://s.only4.tv/6816/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6822.png" catchup-days="2" group-title="Кино",Кинозал! VHS HD
+http://s.only4.tv/6822/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6823.png" catchup-days="2" group-title="Кино",Кинозал! Интерны ТВ
+http://s.only4.tv/6823/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6824.png" catchup-days="2" group-title="Кино",Кинозал! СССР
+http://s.only4.tv/6824/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6825.png" catchup-days="7" group-title="Кино",Кинозал! Сваты
+http://s.only4.tv/6825/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6827.png" catchup-days="7" group-title="Кино",Кинозал! Универ ТВ
+http://s.only4.tv/6827/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6828.png" catchup-days="7" group-title="Кино",Кинозал! ХИТ HD
+http://s.only4.tv/6828/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8348.png" catchup-days="1" group-title="Кино",Ольга HD
+http://s.only4.tv/8348/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9343.png" catchup-days="1" group-title="Кино",Однажды в милиции
+http://s.only4.tv/9343/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6832.png" catchup-days="2" group-title="Кино",СТРАХ HD
+http://s.only4.tv/6832/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8505.png" catchup-days="1" group-title="Кино",СТРАХ FHD (2.0)
+http://s.only4.tv/8505/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9043.png" catchup-days="1" group-title="Кино",Sky2000 Horror HD
+http://s.only4.tv/9043/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9042.png" catchup-days="1" group-title="Кино",Sky2000 Fantastic HD
+http://s.only4.tv/9042/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6813.png" catchup-days="2" group-title="Кино",Sky2000 HD
+http://s.only4.tv/6813/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6920.png" catchup-days="2" group-title="Кино",Sky2000 Cinema HD
+http://s.only4.tv/6920/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/6921.png" catchup-days="2" group-title="Кино",Sky2000 Russian HD
+http://s.only4.tv/6921/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/7218.png" catchup-days="2" group-title="Кино",Sky2000 VHS HD
+http://s.only4.tv/7218/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8219.png" catchup-days="1" group-title="Кино",Sky2000 India HD
+http://s.only4.tv/8219/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="horrortv" catchup="shift" tvg-logo="http://1lot.tv/ch/7219.png" catchup-days="1" group-title="Кино",Horror HD
+http://s.only4.tv/7219/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8247.png" catchup-days="1" group-title="Кино",КИНОДРОМ
+http://s.only4.tv/8247/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8511.png" catchup-days="1" group-title="Кино",Байки из склепа
+http://s.only4.tv/8511/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8512.png" catchup-days="1" group-title="Кино",Громовы
+http://s.only4.tv/8512/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8513.png" catchup-days="1" group-title="Кино",Коломбо
+http://s.only4.tv/8513/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman" catchup="shift" tvg-logo="http://1lot.tv/ch/6837.png" catchup-days="2" group-title="Кино",CineMan
+http://s.only4.tv/6837/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-rukino" catchup="shift" tvg-logo="http://1lot.tv/ch/6838.png" catchup-days="2" group-title="Кино",CineMan РуКино
+http://s.only4.tv/6838/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-top" catchup="shift" tvg-logo="http://1lot.tv/ch/6839.png" catchup-days="2" group-title="Кино",CineMan Top
+http://s.only4.tv/6839/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-thriller" catchup="shift" tvg-logo="http://1lot.tv/ch/6840.png" catchup-days="2" group-title="Кино",CineMan Thriller
+http://s.only4.tv/6840/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-marvel" catchup="shift" tvg-logo="http://1lot.tv/ch/6841.png" catchup-days="2" group-title="Кино",CineMan Marvel
+http://s.only4.tv/6841/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-vhs" catchup="shift" tvg-logo="http://1lot.tv/ch/6842.png" catchup-days="2" group-title="Кино",CineMan VHS
+http://s.only4.tv/6842/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-action" catchup="shift" tvg-logo="http://1lot.tv/ch/6855.png" catchup-days="2" group-title="Кино",CineMan Action
+http://s.only4.tv/6855/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-melodrama" catchup="shift" tvg-logo="http://1lot.tv/ch/6856.png" catchup-days="2" group-title="Кино",CineMan Мелодрама
+http://s.only4.tv/6856/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-svaty" catchup="shift" tvg-logo="http://1lot.tv/ch/6843.png" catchup-days="2" group-title="Кино",CineMan Сваты
+http://s.only4.tv/6843/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-uzhasy" catchup="shift" tvg-logo="http://1lot.tv/ch/6914.png" catchup-days="2" group-title="Кино",CineMan Ужасы
+http://s.only4.tv/6914/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/6915.png" catchup-days="2" group-title="Кино",CineMan Комедия
+http://s.only4.tv/6915/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-skorpom" catchup="shift" tvg-logo="http://1lot.tv/ch/7231.png" catchup-days="2" group-title="Кино",CineMan Скорая помощь
+http://s.only4.tv/7231/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-katastrofy" catchup="shift" tvg-logo="http://1lot.tv/ch/7235.png" catchup-days="2" group-title="Кино",CineMan Катастрофы
+http://s.only4.tv/7235/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-musw" catchup="shift" tvg-logo="http://1lot.tv/ch/7659.png" catchup-days="2" group-title="Кино",CineMan Ментовские войны
+http://s.only4.tv/7659/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-pes" catchup="shift" tvg-logo="http://1lot.tv/ch/7660.png" catchup-days="2" group-title="Кино",CineMan Пёс + Лихач
+http://s.only4.tv/7660/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-lesnik" catchup="shift" tvg-logo="http://1lot.tv/ch/7661.png" catchup-days="2" group-title="Кино",CineMan Лесник
+http://s.only4.tv/7661/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-miniseries" catchup="shift" tvg-logo="http://1lot.tv/ch/8255.png" catchup-days="2" group-title="Кино",CineMan Miniseries
+http://s.only4.tv/8255/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/8540.png" catchup-days="1" group-title="Кино",CineMan Premium
+http://s.only4.tv/8540/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-univer" catchup="shift" tvg-logo="http://1lot.tv/ch/9157.png" catchup-days="7" group-title="Кино",CineMan Универ
+http://s.only4.tv/9157/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-interny" catchup="shift" tvg-logo="http://1lot.tv/ch/9156.png" catchup-days="7" group-title="Кино",CineMan Интерны
+http://s.only4.tv/9156/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-gluhar" catchup="shift" tvg-logo="http://1lot.tv/ch/9155.png" catchup-days="7" group-title="Кино",CineMan Криминальные сериалы
+http://s.only4.tv/9155/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="trashtv" catchup="shift" tvg-logo="http://1lot.tv/ch/6853.png" catchup-days="2" group-title="Кино",Trash HD
+http://s.only4.tv/6853/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="flixsnip" catchup="shift" tvg-logo="http://1lot.tv/ch/7701.png" catchup-days="7" group-title="Кино",FlixSnip HD
+http://s.only4.tv/7701/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="flixsnip" catchup="shift" tvg-logo="http://1lot.tv/ch/19111.png" catchup-days="1" group-title="Кино",FlixSnip
+http://s.only4.tv/19111/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/6902.png" catchup-days="7" group-title="Кино",Dosug TV Comedy
+http://s.only4.tv/6902/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-fantastic" catchup="shift" tvg-logo="http://1lot.tv/ch/6903.png" catchup-days="1" group-title="Кино",Dosug TV Fantastic
+http://s.only4.tv/6903/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-history" catchup="shift" tvg-logo="http://1lot.tv/ch/6904.png" catchup-days="1" group-title="Кино",Dosug TV History
+http://s.only4.tv/6904/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-hit" catchup="shift" tvg-logo="http://1lot.tv/ch/6905.png" catchup-days="1" group-title="Кино",Dosug TV HIT
+http://s.only4.tv/6905/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-horror" catchup="shift" tvg-logo="http://1lot.tv/ch/6906.png" catchup-days="7" group-title="Кино",Dosug TV Horror
+http://s.only4.tv/6906/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-kids" catchup="shift" tvg-logo="http://1lot.tv/ch/6907.png" catchup-days="7" group-title="Кино",Dosug TV Kids
+http://s.only4.tv/6907/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-marvel" catchup="shift" tvg-logo="http://1lot.tv/ch/6908.png" catchup-days="1" group-title="Кино",Dosug TV Marvel
+http://s.only4.tv/6908/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-russian" catchup="shift" tvg-logo="http://1lot.tv/ch/6909.png" catchup-days="7" group-title="Кино",Dosug TV Russian
+http://s.only4.tv/6909/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-vhs" catchup="shift" tvg-logo="http://1lot.tv/ch/6910.png" catchup-days="1" group-title="Кино",Dosug TV VHS
+http://s.only4.tv/6910/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-svaty" catchup="shift" tvg-logo="http://1lot.tv/ch/6911.png" catchup-days="1" group-title="Кино",Dosug TV Сваты
+http://s.only4.tv/6911/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-serial" catchup="shift" tvg-logo="http://1lot.tv/ch/6912.png" catchup-days="1" group-title="Кино",Dosug TV Сериал
+http://s.only4.tv/6912/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-sssr" catchup="shift" tvg-logo="http://1lot.tv/ch/6913.png" catchup-days="1" group-title="Кино",Dosug TV СССР
+http://s.only4.tv/6913/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-hodyachie" catchup="shift" tvg-logo="http://1lot.tv/ch/7203.png" catchup-days="1" group-title="Кино",Dosug TV Ходячие мертвецы
+http://s.only4.tv/7203/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dosug-new" catchup="shift" tvg-logo="http://1lot.tv/ch/7204.png" catchup-days="1" group-title="Кино",Dosug TV New
+http://s.only4.tv/7204/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-grand" catchup="shift" tvg-logo="http://1lot.tv/ch/7185.png" catchup-days="1" group-title="Кино",YOSSO TV GRAND
+http://s.only4.tv/7185/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-vhs" catchup="shift" tvg-logo="http://1lot.tv/ch/7186.png" catchup-days="1" group-title="Кино",YOSSO TV VHS
+http://s.only4.tv/7186/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-rusfilm" catchup="shift" tvg-logo="http://1lot.tv/ch/7188.png" catchup-days="1" group-title="Кино",YOSSO TV Русские фильмы
+http://s.only4.tv/7188/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-sovfilm" catchup="shift" tvg-logo="http://1lot.tv/ch/7189.png" catchup-days="1" group-title="Кино",YOSSO TV Советские фильмы
+http://s.only4.tv/7189/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-newkino" catchup="shift" tvg-logo="http://1lot.tv/ch/7191.png" catchup-days="1" group-title="Кино",YOSSO TV NEW Кино
+http://s.only4.tv/7191/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-tragic" catchup="shift" tvg-logo="http://1lot.tv/ch/7205.png" catchup-days="1" group-title="Кино",YOSSO TV Трагичное
+http://s.only4.tv/7205/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-zabavno" catchup="shift" tvg-logo="http://1lot.tv/ch/7223.png" catchup-days="1" group-title="Кино",YOSSO TV Забавное
+http://s.only4.tv/7223/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-best" catchup="shift" tvg-logo="http://1lot.tv/ch/7224.png" catchup-days="1" group-title="Кино",YOSSO TV BEST
+http://s.only4.tv/7224/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-cowboy" catchup="shift" tvg-logo="http://1lot.tv/ch/7229.png" catchup-days="1" group-title="Кино",YOSSO TV Ковбойское
+http://s.only4.tv/7229/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-oblivion" catchup="shift" tvg-logo="http://1lot.tv/ch/7537.png" catchup-days="1" group-title="Кино",YOSSO TV Oblivion
+http://s.only4.tv/7537/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-adrenalin" catchup="shift" tvg-logo="http://1lot.tv/ch/7538.png" catchup-days="1" group-title="Кино",YOSSO TV Adrenaline
+http://s.only4.tv/7538/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-adventure" catchup="shift" tvg-logo="http://1lot.tv/ch/7539.png" catchup-days="1" group-title="Кино",YOSSO TV Adventure
+http://s.only4.tv/7539/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-thriller" catchup="shift" tvg-logo="http://1lot.tv/ch/7545.png" catchup-days="1" group-title="Кино",YOSSO TV Thriller
+http://s.only4.tv/7545/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-ndetskoe" catchup="shift" tvg-logo="http://1lot.tv/ch/8250.png" catchup-days="1" group-title="Кино",YOSSO TV Наше Детское
+http://s.only4.tv/8250/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-melodrama" catchup="shift" tvg-logo="http://1lot.tv/ch/8251.png" catchup-days="4" group-title="Кино",YOSSO TV Мелодрама
+http://s.only4.tv/8251/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-netflix" catchup="shift" tvg-logo="http://1lot.tv/ch/8756.png" catchup-days="1" group-title="Кино",YOSSO TV Netflix
+http://s.only4.tv/8756/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-best60fps" catchup="shift" tvg-logo="http://1lot.tv/ch/8758.png" catchup-days="1" group-title="Кино",YOSSO TV BEST 60 FPS
+http://s.only4.tv/8758/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-marvel" catchup="shift" tvg-logo="http://1lot.tv/ch/7639.png" catchup-days="1" group-title="Кино",C-Marvel
+http://s.only4.tv/7639/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-inquest" catchup="shift" tvg-logo="http://1lot.tv/ch/7832.png" catchup-days="1" group-title="Кино",C-INQUEST
+http://s.only4.tv/7832/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-history" catchup="shift" tvg-logo="http://1lot.tv/ch/8060.png" catchup-days="1" group-title="Кино",C-History HD
+http://s.only4.tv/8060/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/7831.png" catchup-days="1" group-title="Кино",C-COMEDY
+http://s.only4.tv/7831/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-holiday" catchup="shift" tvg-logo="http://1lot.tv/ch/9366.png" catchup-days="1" group-title="Кино",C-Holiday
+http://s.only4.tv/9366/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Channel" catchup="shift" tvg-logo="http://1lot.tv/ch/7583.png" catchup-days="1" group-title="Кино",Z!Channel HD
+http://s.only4.tv/7583/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/7584.png" catchup-days="1" group-title="Кино",Z!Comedy HD
+http://s.only4.tv/7584/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Crime" catchup="shift" tvg-logo="http://1lot.tv/ch/7585.png" catchup-days="1" group-title="Кино",Z!Crime HD
+http://s.only4.tv/7585/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Horror" catchup="shift" tvg-logo="http://1lot.tv/ch/7586.png" catchup-days="1" group-title="Кино",Z!Horror HD
+http://s.only4.tv/7586/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Serial" catchup="shift" tvg-logo="http://1lot.tv/ch/7587.png" catchup-days="1" group-title="Кино",Z!Serial HD
+http://s.only4.tv/7587/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Sitcom" catchup="shift" tvg-logo="http://1lot.tv/ch/7588.png" catchup-days="1" group-title="Кино",Z!Sitcom HD
+http://s.only4.tv/7588/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Action" catchup="shift" tvg-logo="http://1lot.tv/ch/8043.png" catchup-days="1" group-title="Кино",Z!Action HD
+http://s.only4.tv/8043/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Military" catchup="shift" tvg-logo="http://1lot.tv/ch/8229.png" catchup-days="1" group-title="Кино",Z!Military HD
+http://s.only4.tv/8229/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Adventure" catchup="shift" tvg-logo="http://1lot.tv/ch/8044.png" catchup-days="1" group-title="Кино",Z!Adventure HD
+http://s.only4.tv/8044/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Biography" catchup="shift" tvg-logo="http://1lot.tv/ch/8045.png" catchup-days="1" group-title="Кино",Z!Biography HD
+http://s.only4.tv/8045/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Detective" catchup="shift" tvg-logo="http://1lot.tv/ch/8046.png" catchup-days="1" group-title="Кино",Z!Detective HD
+http://s.only4.tv/8046/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Drama" catchup="shift" tvg-logo="http://1lot.tv/ch/8047.png" catchup-days="1" group-title="Кино",Z!Drama HD
+http://s.only4.tv/8047/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Family" catchup="shift" tvg-logo="http://1lot.tv/ch/8048.png" catchup-days="1" group-title="Кино",Z!Family HD
+http://s.only4.tv/8048/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Fantastic" catchup="shift" tvg-logo="http://1lot.tv/ch/8049.png" catchup-days="1" group-title="Кино",Z!Fantastic HD
+http://s.only4.tv/8049/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Fantasy" catchup="shift" tvg-logo="http://1lot.tv/ch/8050.png" catchup-days="1" group-title="Кино",Z!Fantasy HD
+http://s.only4.tv/8050/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_History" catchup="shift" tvg-logo="http://1lot.tv/ch/8051.png" catchup-days="1" group-title="Кино",Z!History HD
+http://s.only4.tv/8051/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Russian" catchup="shift" tvg-logo="http://1lot.tv/ch/8052.png" catchup-days="1" group-title="Кино",Z!Russian HD
+http://s.only4.tv/8052/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Thriller" catchup="shift" tvg-logo="http://1lot.tv/ch/8053.png" catchup-days="1" group-title="Кино",Z!Thriller HD
+http://s.only4.tv/8053/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="plan-b" catchup="shift" tvg-logo="http://1lot.tv/ch/7665.png" catchup-days="1" group-title="Кино",Plan-b
+http://s.only4.tv/7665/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="plan-b" catchup="shift" tvg-logo="http://1lot.tv/ch/7648.png" catchup-days="1" group-title="Кино",Plan-b HD
+http://s.only4.tv/7648/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="312-serial" catchup="shift" tvg-logo="http://1lot.tv/ch/7704.png" catchup-days="7" group-title="Кино",312
+http://s.only4.tv/7704/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="312-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/7705.png" catchup-days="7" group-title="Кино",312 Кино
+http://s.only4.tv/7705/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="epik-drama" catchup="shift" tvg-logo="http://1lot.tv/ch/7716.png" catchup-days="7" group-title="Кино",Epic Drama HD
+http://s.only4.tv/7716/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kinokazka" catchup="shift" tvg-logo="http://1lot.tv/ch/7722.png" catchup-days="3" group-title="Кино",Kino-казка
+http://s.only4.tv/7722/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-channel-ee" catchup="shift" tvg-logo="http://1lot.tv/ch/7873.png" catchup-days="5" group-title="Кино",Duo 3 HD
+http://s.only4.tv/7873/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-channel-ee" catchup="shift" tvg-logo="http://1lot.tv/ch/7871.png" catchup-days="1" group-title="Кино",Duo 3
+http://s.only4.tv/7871/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kanal-11-ee" catchup="shift" tvg-logo="http://1lot.tv/ch/8193.png" catchup-days="7" group-title="Кино",Duo 4 HD
+http://s.only4.tv/8193/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-turbo-ee" catchup="shift" tvg-logo="http://1lot.tv/ch/7874.png" catchup-days="1" group-title="Кино",Duo 6 HD
+http://s.only4.tv/7874/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sony-turbo-ee" catchup="shift" tvg-logo="http://1lot.tv/ch/7872.png" catchup-days="7" group-title="Кино",Duo 6
+http://s.only4.tv/7872/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="amc" catchup="shift" tvg-logo="http://1lot.tv/ch/7912.png" catchup-days="1" group-title="Кино",AMC
+http://s.only4.tv/7912/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="start-air" catchup="shift" tvg-logo="http://1lot.tv/ch/8029.png" catchup-days="1" group-title="Кино",START Air
+http://s.only4.tv/8029/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="start-world" catchup="shift" tvg-logo="http://1lot.tv/ch/8030.png" catchup-days="1" group-title="Кино",START World
+http://s.only4.tv/8030/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8031.png" catchup-days="1" group-title="Кино",KLI Cinema
+http://s.only4.tv/8031/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/8033.png" catchup-days="1" group-title="Кино",KLI Комедия
+http://s.only4.tv/8033/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-history" catchup="shift" tvg-logo="http://1lot.tv/ch/8035.png" catchup-days="1" group-title="Кино",KLI History
+http://s.only4.tv/8035/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-premium" catchup="shift" tvg-logo="http://1lot.tv/ch/8036.png" catchup-days="1" group-title="Кино",KLI Premium
+http://s.only4.tv/8036/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-russian" catchup="shift" tvg-logo="http://1lot.tv/ch/8037.png" catchup-days="1" group-title="Кино",KLI Russian
+http://s.only4.tv/8037/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-fantastic" catchup="shift" tvg-logo="http://1lot.tv/ch/8038.png" catchup-days="1" group-title="Кино",KLI Fantastica
+http://s.only4.tv/8038/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-thriller" catchup="shift" tvg-logo="http://1lot.tv/ch/8039.png" catchup-days="1" group-title="Кино",KLI Thriller
+http://s.only4.tv/8039/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-cccp" catchup="shift" tvg-logo="http://1lot.tv/ch/8040.png" catchup-days="1" group-title="Кино",KLI СССР
+http://s.only4.tv/8040/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-vhs" catchup="shift" tvg-logo="http://1lot.tv/ch/8042.png" catchup-days="1" group-title="Кино",KLI VHS
+http://s.only4.tv/8042/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-kinoseries" catchup="shift" tvg-logo="http://1lot.tv/ch/8112.png" catchup-days="1" group-title="Кино",KLI Киносерия
+http://s.only4.tv/8112/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klihorror" catchup="shift" tvg-logo="http://1lot.tv/ch/8493.png" catchup-days="1" group-title="Кино",KLI Horror FHD
+http://s.only4.tv/8493/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kliaction" catchup="shift" tvg-logo="http://1lot.tv/ch/2013.png" catchup-days="1" group-title="Кино",KLI Action HD
+http://s.only4.tv/2013/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klihumor" catchup="shift" tvg-logo="http://1lot.tv/ch/2014.png" catchup-days="1" group-title="Кино",KLI Humor HD
+http://s.only4.tv/2014/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klidrama" catchup="shift" tvg-logo="http://1lot.tv/ch/2015.png" catchup-days="1" group-title="Кино",KLI DRAMA HD
+http://s.only4.tv/2015/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="KLIFantasy" catchup="shift" tvg-logo="http://1lot.tv/ch/2016.png" catchup-days="1" group-title="Кино",KLI Fantasy HD
+http://s.only4.tv/2016/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klinetflix" catchup="shift" tvg-logo="http://1lot.tv/ch/8744.png" catchup-days="1" group-title="Кино",KLI Netflix HD
+http://s.only4.tv/8744/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klimarvel" catchup="shift" tvg-logo="http://1lot.tv/ch/8767.png" catchup-days="1" group-title="Кино",KLI Marvel HD
+http://s.only4.tv/8767/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klinovinci" catchup="shift" tvg-logo="http://1lot.tv/ch/8855.png" catchup-days="1" group-title="Кино",KLI Новинки
+http://s.only4.tv/8855/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klifranchise" catchup="shift" tvg-logo="http://1lot.tv/ch/9238.png" catchup-days="1" group-title="Кино",KLI Franchise
+http://s.only4.tv/9238/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="SerialsRus" catchup="shift" tvg-logo="http://1lot.tv/ch/8268.png" catchup-days="7" group-title="Кино",VB Российские Сериалы
+http://s.only4.tv/8268/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="VHSClassic" catchup="shift" tvg-logo="http://1lot.tv/ch/8269.png" catchup-days="7" group-title="Кино",VB VHS Classic
+http://s.only4.tv/8269/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8741.png" catchup-days="7" group-title="Кино",VB Контент моего детства
+http://s.only4.tv/8741/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/8754.png" catchup-days="7" group-title="Кино",VB Спецназ-Диверсант
+http://s.only4.tv/8754/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9372.png" catchup-days="7" group-title="Кино",VB Сваты
+http://s.only4.tv/9372/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-drama" catchup="shift" tvg-logo="http://1lot.tv/ch/6833.png" catchup-days="2" group-title="Кино",CPS Drama
+http://s.only4.tv/6833/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-western" catchup="shift" tvg-logo="http://1lot.tv/ch/6928.png" catchup-days="2" group-title="Кино",CPS Western
+http://s.only4.tv/6928/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-mix" catchup="shift" tvg-logo="http://1lot.tv/ch/6930.png" catchup-days="2" group-title="Кино",CPS Mix
+http://s.only4.tv/6930/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-fiction" catchup="shift" tvg-logo="http://1lot.tv/ch/6927.png" catchup-days="2" group-title="Кино",CPS Fiction
+http://s.only4.tv/6927/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-comedy" catchup="shift" tvg-logo="http://1lot.tv/ch/6929.png" catchup-days="2" group-title="Кино",CPS Comedy
+http://s.only4.tv/6929/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-anime" catchup="shift" tvg-logo="http://1lot.tv/ch/7195.png" catchup-days="2" group-title="Кино",CPS Anime
+http://s.only4.tv/7195/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-action" catchup="shift" tvg-logo="http://1lot.tv/ch/7196.png" catchup-days="2" group-title="Кино",CPS Action
+http://s.only4.tv/7196/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-ussr" catchup="shift" tvg-logo="http://1lot.tv/ch/7658.png" catchup-days="2" group-title="Кино",CPS USSR
+http://s.only4.tv/7658/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-fresh" catchup="shift" tvg-logo="http://1lot.tv/ch/7664.png" catchup-days="2" group-title="Кино",CPS Fresh
+http://s.only4.tv/7664/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-oscar" catchup="shift" tvg-logo="http://1lot.tv/ch/7692.png" catchup-days="2" group-title="Кино",CPS Oscar
+http://s.only4.tv/7692/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-mult" catchup="shift" tvg-logo="http://1lot.tv/ch/7995.png" catchup-days="2" group-title="Кино",CPS Cartoon
+http://s.only4.tv/7995/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-detective" catchup="shift" tvg-logo="http://1lot.tv/ch/7996.png" catchup-days="2" group-title="Кино",CPS Investigation
+http://s.only4.tv/7996/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-jackie" catchup="shift" tvg-logo="http://1lot.tv/ch/8003.png" catchup-days="2" group-title="Кино",CPS Jackie Chan
+http://s.only4.tv/8003/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cps-fresh-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8066.png" catchup-days="2" group-title="Кино",CPS Fresh UA
+http://s.only4.tv/8066/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sapfir" catchup="shift" tvg-logo="http://1lot.tv/ch/2011.png" catchup-days="7" group-title="Кино",Сапфир HD
+http://s.only4.tv/2011/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sapfir" catchup="shift" tvg-logo="http://1lot.tv/ch/2012.png" catchup-days="7" group-title="Кино",Сапфир
+http://s.only4.tv/2012/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domashny" catchup="shift" tvg-logo="http://1lot.tv/ch/6254.png" catchup-days="1" group-title="Кино",Домашний HD
+http://s.only4.tv/6254/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domashny" catchup="shift" tvg-logo="http://1lot.tv/ch/1102.png" catchup-days="1" group-title="Кино",Домашний
+http://s.only4.tv/1102/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domashny-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/6296.png" catchup-days="1" group-title="Кино",Домашний (+2)
+http://s.only4.tv/6296/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domashny-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/6297.png" catchup-days="1" group-title="Кино",Домашний (+4)
+http://s.only4.tv/6297/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts" catchup="shift" tvg-logo="http://1lot.tv/ch/5580.png" catchup-days="1" group-title="Кино",СТС HD
+http://s.only4.tv/5580/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts" catchup="shift" tvg-logo="http://1lot.tv/ch/1105.png" catchup-days="1" group-title="Кино",СТС
+http://s.only4.tv/1105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/0224.png" catchup-days="1" group-title="Кино",СТС (+2)
+http://s.only4.tv/0224/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/0354.png" catchup-days="1" group-title="Кино",СТС (+4)
+http://s.only4.tv/0354/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7557.png" catchup-days="1" group-title="Кино",СТС (+7)
+http://s.only4.tv/7557/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-int" catchup="shift" tvg-logo="http://1lot.tv/ch/7837.png" catchup-days="1" group-title="Кино",СТС Int
+http://s.only4.tv/7837/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-love" catchup="shift" tvg-logo="http://1lot.tv/ch/1106.png" catchup-days="1" group-title="Кино",СТС Love
+http://s.only4.tv/1106/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-love-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7575.png" catchup-days="1" group-title="Кино",СТС Love (+2)
+http://s.only4.tv/7575/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-love-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7576.png" catchup-days="1" group-title="Кино",СТС Love (+4)
+http://s.only4.tv/7576/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="super" catchup="shift" tvg-logo="http://1lot.tv/ch/6464.png" catchup-days="1" group-title="Кино",Суббота HD
+http://s.only4.tv/6464/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="super" catchup="shift" tvg-logo="http://1lot.tv/ch/1321.png" catchup-days="1" group-title="Кино",Суббота
+http://s.only4.tv/1321/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="super-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7567.png" catchup-days="1" group-title="Кино",Суббота (+2)
+http://s.only4.tv/7567/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="super-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7568.png" catchup-days="1" group-title="Кино",Суббота (+4)
+http://s.only4.tv/7568/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="super-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7569.png" catchup-days="1" group-title="Кино",Суббота (+7)
+http://s.only4.tv/7569/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8987.png" catchup-days="1" group-title="Кино",HOT Cinema 1 HD
+http://s.only4.tv/8987/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8988.png" catchup-days="1" group-title="Кино",HOT Cinema 2 HD
+http://s.only4.tv/8988/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8989.png" catchup-days="1" group-title="Кино",HOT Cinema 3 HD
+http://s.only4.tv/8989/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8990.png" catchup-days="1" group-title="Кино",HOT Cinema 4 HD
+http://s.only4.tv/8990/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9040.png" catchup-days="1" group-title="Кино",Кинозал! Bond 007
+http://s.only4.tv/9040/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlaySeriesLatinas.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9151.png" catchup-days="1" group-title="Кино",TVPlay Латинские сериалы ретро
+http://s.only4.tv/9151/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayDCComics.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9234.png" catchup-days="1" group-title="Кино",TVPlay DC Comics HD
+http://s.only4.tv/9234/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayMarvel.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9220.png" catchup-days="1" group-title="Кино",TVPlay Marvel HD
+http://s.only4.tv/9220/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayIndianCinema.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9221.png" catchup-days="1" group-title="Кино",TVPlay Indian Cinema
+http://s.only4.tv/9221/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayIgraPrestolov.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9222.png" catchup-days="1" group-title="Кино",TVPlay Игра Престолов HD
+http://s.only4.tv/9222/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayAvtorskiyPerevod.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9223.png" catchup-days="1" group-title="Кино",TVPlay Авторский перевод HD
+http://s.only4.tv/9223/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayALF.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9226.png" catchup-days="1" group-title="Кино",TVPlay АЛЬФ
+http://s.only4.tv/9226/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayVavilon5.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9231.png" catchup-days="1" group-title="Кино",TVPlay Космический
+http://s.only4.tv/9231/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayGarryPotter.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9233.png" catchup-days="1" group-title="Кино",TVPlay Гарри Поттер HD
+http://s.only4.tv/9233/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayLihie90eSerial.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9252.png" catchup-days="1" group-title="Кино",TVPlay Лихие 90е Сериал
+http://s.only4.tv/9252/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayLihie90eKino.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9253.png" catchup-days="1" group-title="Кино",TVPlay Лихие 90е Кино
+http://s.only4.tv/9253/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayNovyoRUSHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9254.png" catchup-days="1" group-title="Кино",TVPlay Новьё RUS HD
+http://s.only4.tv/9254/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayNovyoWorldHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9255.png" catchup-days="1" group-title="Кино",TVPlay Новьё Мир HD
+http://s.only4.tv/9255/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayMythsandLegends.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9227.png" catchup-days="1" group-title="Кино",TVPlay Myths and Legends
+http://s.only4.tv/9227/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlaySledstvievedutHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9232.png" catchup-days="1" group-title="Кино",TVPlay Следствие ведут HD
+http://s.only4.tv/9232/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayIstoriiSredizemya.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9235.png" catchup-days="1" group-title="Кино",TVPlay Истории Средиземья HD
+http://s.only4.tv/9235/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayUzhastikHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9373.png" catchup-days="1" group-title="Кино",TVPlay Ужастик HD
+http://s.only4.tv/9373/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayFantastikaHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9374.png" catchup-days="1" group-title="Кино",TVPlay Фантастика HD
+http://s.only4.tv/9374/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlaySovKinoHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9375.png" catchup-days="1" group-title="Кино",TVPlay Советское Кино HD
+http://s.only4.tv/9375/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlaySovMultHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9376.png" catchup-days="1" group-title="Кино",TVPlay Советские Мультфильмы HD
+http://s.only4.tv/9376/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayAnimeHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9377.png" catchup-days="1" group-title="Кино",TVPlay Аниме HD
+http://s.only4.tv/9377/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayBuffyIstrebitelnicaVampirovHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9378.png" catchup-days="1" group-title="Кино",TVPlay Баффи HD
+http://s.only4.tv/9378/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayDruzyaHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9379.png" catchup-days="1" group-title="Кино",TVPlay Друзья HD
+http://s.only4.tv/9379/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayZacharovanniyeHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9380.png" catchup-days="1" group-title="Кино",TVPlay Зачарованные HD
+http://s.only4.tv/9380/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayFantasticRUSHD.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9381.png" catchup-days="1" group-title="Кино",TVPlay Фантастика RUS HD
+http://s.only4.tv/9381/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayGameZone.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9382.png" catchup-days="1" group-title="Кино",TVPlay GameZone
+http://s.only4.tv/9382/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayParodies.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9415.png" catchup-days="1" group-title="Кино",TVPlay Parodies
+http://s.only4.tv/9415/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="timeless-dizi" catchup="shift" tvg-logo="http://1lot.tv/ch/9257.png" catchup-days="1" group-title="Кино",Timeless Dizi Channel HD
+http://s.only4.tv/9257/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_cinema" catchup="shift" tvg-logo="http://1lot.tv/ch/9367.png" catchup-days="1" group-title="Кино",UZ-Новогодний канал HD
+http://s.only4.tv/9367/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kino-24" catchup="shift" tvg-logo="http://1lot.tv/ch/9405.png" catchup-days="1" group-title="Кино",Kino 24
+http://s.only4.tv/9405/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="anekdottv" catchup="shift" tvg-logo="http://1lot.tv/ch/5524.png" catchup-days="1" group-title="Разное",Анекдот ТВ
+http://s.only4.tv/5524/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kvn-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/124.png" catchup-days="1" group-title="Разное",КВН ТВ
+http://s.only4.tv/124/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nazad-v-90" catchup="shift" tvg-logo="http://1lot.tv/ch/6831.png" catchup-days="1" group-title="Разное",НАЗАД В 90-e
+http://s.only4.tv/6831/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" catchup="shift" tvg-logo="http://1lot.tv/ch/5503.png" catchup-days="1" group-title="Разное",Настоящее время
+http://s.only4.tv/5503/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="euronews" catchup="shift" tvg-logo="http://1lot.tv/ch/19114.png" catchup-days="1" group-title="Разное",Euronews
+http://s.only4.tv/19114/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-6-kadrov" catchup="shift" tvg-logo="http://1lot.tv/ch/6931.png" catchup-days="1" group-title="Разное",UZ-6 кадров HD
+http://s.only4.tv/6931/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-odnajdyvrossii" catchup="shift" tvg-logo="http://1lot.tv/ch/7216.png" catchup-days="1" group-title="Разное",UZ-Однажды в России HD
+http://s.only4.tv/7216/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-pelmeni" catchup="shift" tvg-logo="http://1lot.tv/ch/7546.png" catchup-days="2" group-title="Разное",UZ-Уральские Пельмени HD
+http://s.only4.tv/7546/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6445.png" catchup-days="7" group-title="Разное",Твоё ТВ
+http://s.only4.tv/6445/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tvoetv-humor" catchup="shift" tvg-logo="http://1lot.tv/ch/9045.png" catchup-days="1" group-title="Разное",Твоё ТВ HD Юмор
+http://s.only4.tv/9045/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="gags-network" catchup="shift" tvg-logo="http://1lot.tv/ch/6875.png" catchup-days="1" group-title="Разное",Gags Network
+http://s.only4.tv/6875/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cnn" catchup="shift" tvg-logo="http://1lot.tv/ch/8118.png" catchup-days="1" group-title="Разное",CNN International
+http://s.only4.tv/8118/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="perec-int" catchup="shift" tvg-logo="http://1lot.tv/ch/6919.png" catchup-days="2" group-title="Разное",Перец int
+http://s.only4.tv/6919/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bbc" catchup="shift" tvg-logo="http://1lot.tv/ch/8120.png" catchup-days="1" group-title="Разное",BBC World News HD
+http://s.only4.tv/8120/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="gametoon" catchup="shift" tvg-logo="http://1lot.tv/ch/8131.png" catchup-days="1" group-title="Разное",Game Toon HD
+http://s.only4.tv/8131/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bloomberg" catchup="shift" tvg-logo="http://1lot.tv/ch/8162.png" catchup-days="1" group-title="Разное",Bloomberg
+http://s.only4.tv/8162/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="france-24" catchup="shift" tvg-logo="http://1lot.tv/ch/8163.png" catchup-days="1" group-title="Разное",France 24 HD
+http://s.only4.tv/8163/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="france24-en" catchup="shift" tvg-logo="http://1lot.tv/ch/8164.png" catchup-days="1" group-title="Разное",France 24 English
+http://s.only4.tv/8164/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="france24-fr" catchup="shift" tvg-logo="http://1lot.tv/ch/8165.png" catchup-days="1" group-title="Разное",France 24 Francais
+http://s.only4.tv/8165/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Fun" catchup="shift" tvg-logo="http://1lot.tv/ch/8256.png" catchup-days="1" group-title="Разное",Z! Fun HD
+http://s.only4.tv/8256/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="O_Modern" catchup="shift" tvg-logo="http://1lot.tv/ch/8270.png" catchup-days="1" group-title="Разное",VB Осторожно Модерн!
+http://s.only4.tv/8270/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="OSP_Studio" catchup="shift" tvg-logo="http://1lot.tv/ch/8271.png" catchup-days="1" group-title="Разное",VB ОСП-Студия
+http://s.only4.tv/8271/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8742.png" catchup-days="1" group-title="Разное",VB Назад в СССР
+http://s.only4.tv/8742/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yu" catchup="shift" tvg-logo="http://1lot.tv/ch/1320.png" catchup-days="1" group-title="Разное",Ю
+http://s.only4.tv/1320/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yu-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7579.png" catchup-days="1" group-title="Разное",Ю (+2)
+http://s.only4.tv/7579/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yu-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7580.png" catchup-days="1" group-title="Разное",Ю (+4)
+http://s.only4.tv/7580/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yu-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7581.png" catchup-days="1" group-title="Разное",Ю (+7)
+http://s.only4.tv/7581/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt4" catchup="shift" tvg-logo="http://1lot.tv/ch/6465.png" catchup-days="1" group-title="Разное",ТНТ4 HD
+http://s.only4.tv/6465/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt4" catchup="shift" tvg-logo="http://1lot.tv/ch/1820.png" catchup-days="1" group-title="Разное",ТНТ4
+http://s.only4.tv/1820/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt4-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7551.png" catchup-days="1" group-title="Разное",ТНТ4 (+2)
+http://s.only4.tv/7551/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt4-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7552.png" catchup-days="1" group-title="Разное",ТНТ4 (+4)
+http://s.only4.tv/7552/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt4-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7553.png" catchup-days="1" group-title="Разное",ТНТ4 (+7)
+http://s.only4.tv/7553/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="che" catchup="shift" tvg-logo="http://1lot.tv/ch/1109.png" catchup-days="1" group-title="Разное",Че
+http://s.only4.tv/1109/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="che-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7562.png" catchup-days="1" group-title="Разное",Че (+2)
+http://s.only4.tv/7562/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="che-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7593.png" catchup-days="1" group-title="Разное",Че (+4)
+http://s.only4.tv/7593/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="che-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7563.png" catchup-days="1" group-title="Разное",Че (+7)
+http://s.only4.tv/7563/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/9039.png" catchup-days="1" group-title="Разное",PlayBoyz TV HD
+http://s.only4.tv/9039/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPLAYMaskiShow.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9152.png" catchup-days="1" group-title="Разное",TVPLAY Маски Шоу
+http://s.only4.tv/9152/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayBolshayaRaznica.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9230.png" catchup-days="1" group-title="Разное",TVPlay Вкусный канал HD
+http://s.only4.tv/9230/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayBolshayaRaznica.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9229.png" catchup-days="1" group-title="Разное",TVPlay Большая Разница
+http://s.only4.tv/9229/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayGorodok.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9228.png" catchup-days="1" group-title="Разное",TVPlay Городок
+http://s.only4.tv/9228/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlay6Kadrov.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9225.png" catchup-days="1" group-title="Разное",TVPlay 6 Кадров
+http://s.only4.tv/9225/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlaySvoyaIgra.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9256.png" catchup-days="1" group-title="Разное",TVPlay Своя игра HD
+http://s.only4.tv/9256/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fashionbox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/9258.png" catchup-days="1" group-title="Разное",FashionBox
+http://s.only4.tv/9258/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cgtn" catchup="shift" tvg-logo="http://1lot.tv/ch/9360.png" catchup-days="1" group-title="Разное",CGTN русский
+http://s.only4.tv/9360/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mir-belogoria" catchup="shift" tvg-logo="http://1lot.tv/ch/9412.png" catchup-days="1" group-title="Разное",Мир Белогорья
+http://s.only4.tv/9412/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yuvelirochka" catchup="shift" tvg-logo="http://1lot.tv/ch/9411.png" catchup-days="1" group-title="Разное",Ювелирочка
+http://s.only4.tv/9411/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nowy-igrowoj" catchup="shift" tvg-logo="http://1lot.tv/ch/9407.png" catchup-days="1" group-title="Разное",Новый игровой канал
+http://s.only4.tv/9407/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="narod-vsio-vidit" catchup="shift" tvg-logo="http://1lot.tv/ch/9406.png" catchup-days="1" group-title="Разное",Народ всё видит
+http://s.only4.tv/9406/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uspex" catchup="shift" tvg-logo="http://1lot.tv/ch/9404.png" catchup-days="1" group-title="Разное",Успех ТВ
+http://s.only4.tv/9404/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-vitalka" catchup="shift" tvg-logo="http://1lot.tv/ch/9456.png" catchup-days="1" group-title="Разное",UZ-Виталька HD
+http://s.only4.tv/9456/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football1" catchup="shift" tvg-logo="http://1lot.tv/ch/14105.png" catchup-days="7" group-title="Спорт",Матч! Футбол 1 HD
+http://s.only4.tv/14105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football2" catchup="shift" tvg-logo="http://1lot.tv/ch/1401.png" catchup-days="7" group-title="Спорт",Матч! Футбол 2 HD
+http://s.only4.tv/1401/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football3" catchup="shift" tvg-logo="http://1lot.tv/ch/1402.png" catchup-days="7" group-title="Спорт",Матч! Футбол 3 HD
+http://s.only4.tv/1402/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football1" catchup="shift" tvg-logo="http://1lot.tv/ch/1305.png" catchup-days="7" group-title="Спорт",Матч! Футбол 1
+http://s.only4.tv/1305/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football2" catchup="shift" tvg-logo="http://1lot.tv/ch/1306.png" catchup-days="7" group-title="Спорт",Матч! Футбол 2
+http://s.only4.tv/1306/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-football3" catchup="shift" tvg-logo="http://1lot.tv/ch/1307.png" catchup-days="7" group-title="Спорт",Матч! Футбол 3
+http://s.only4.tv/1307/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-igra" catchup="shift" tvg-logo="http://1lot.tv/ch/0215.png" catchup-days="7" group-title="Спорт",Матч! Игра HD
+http://s.only4.tv/0215/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-igra" catchup="shift" tvg-logo="http://1lot.tv/ch/1303.png" catchup-days="7" group-title="Спорт",Матч! Игра
+http://s.only4.tv/1303/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-arena" catchup="shift" tvg-logo="http://1lot.tv/ch/12104.png" catchup-days="7" group-title="Спорт",Матч! Арена HD
+http://s.only4.tv/12104/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-arena" catchup="shift" tvg-logo="http://1lot.tv/ch/1301.png" catchup-days="7" group-title="Спорт",Матч! Арена
+http://s.only4.tv/1301/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/2204.png" catchup-days="7" group-title="Спорт",Матч! ТВ HD
+http://s.only4.tv/2204/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/2224.png" catchup-days="3" group-title="Спорт",Матч! ТВ
+http://s.only4.tv/2224/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="football-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/7988.png" catchup-days="3" group-title="Спорт",Телеканал Футбол HD
+http://s.only4.tv/7988/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="football-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/5567.png" catchup-days="7" group-title="Спорт",Телеканал Футбол
+http://s.only4.tv/5567/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sport1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0162.png" catchup-days="3" group-title="Спорт",Sport 1
+http://s.only4.tv/0162/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sport2-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5569.png" catchup-days="7" group-title="Спорт",Sport 2
+http://s.only4.tv/5569/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-premier" catchup="shift" tvg-logo="http://1lot.tv/ch/1403.png" catchup-days="7" group-title="Спорт",Матч! Премьер HD
+http://s.only4.tv/1403/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-premier" catchup="shift" tvg-logo="http://1lot.tv/ch/1423.png" catchup-days="3" group-title="Спорт",Матч! Премьер
+http://s.only4.tv/1423/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-boets" catchup="shift" tvg-logo="http://1lot.tv/ch/1302.png" catchup-days="7" group-title="Спорт",Матч! Боец
+http://s.only4.tv/1302/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-planeta" catchup="shift" tvg-logo="http://1lot.tv/ch/5528.png" catchup-days="1" group-title="Спорт",Матч! Планета
+http://s.only4.tv/5528/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-nash-sport" catchup="shift" tvg-logo="http://1lot.tv/ch/6637.png" catchup-days="1" group-title="Спорт",Матч! Страна
+http://s.only4.tv/6637/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="box-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/422.png" catchup-days="1" group-title="Спорт",Бокс ТВ
+http://s.only4.tv/422/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russky-ekstrim" catchup="shift" tvg-logo="http://1lot.tv/ch/0143.png" catchup-days="7" group-title="Спорт",Русский экстрим
+http://s.only4.tv/0143/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="extreme-sports" catchup="shift" tvg-logo="http://1lot.tv/ch/19109.png" catchup-days="7" group-title="Спорт",Extreme sports
+http://s.only4.tv/19109/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-sport" catchup="shift" tvg-logo="http://1lot.tv/ch/5568.png" catchup-days="3" group-title="Спорт",Viju+ Sport HD
+http://s.only4.tv/5568/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kxl-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0206.png" catchup-days="7" group-title="Спорт",KHL Prime HD
+http://s.only4.tv/0206/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kxl" catchup="shift" tvg-logo="http://1lot.tv/ch/1318.png" catchup-days="3" group-title="Спорт",KHL ТВ
+http://s.only4.tv/1318/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="konny-mir" catchup="shift" tvg-logo="http://1lot.tv/ch/0150.png" catchup-days="2" group-title="Спорт",Конный мир
+http://s.only4.tv/0150/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tochka-otryva" catchup="shift" tvg-logo="http://1lot.tv/ch/19110.png" catchup-days="1" group-title="Спорт",Точка отрыва
+http://s.only4.tv/19110/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="xsport-plus-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6189.png" catchup-days="1" group-title="Спорт",XSPORT
+http://s.only4.tv/6189/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-sports" catchup="shift" tvg-logo="http://1lot.tv/ch/5509.png" catchup-days="7" group-title="Спорт",Setanta Sports 1
+http://s.only4.tv/5509/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-sports-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/5510.png" catchup-days="7" group-title="Спорт",Setanta Sports 2
+http://s.only4.tv/5510/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8912.png" catchup-days="1" group-title="Спорт",Setanta Sports 3 HD
+http://s.only4.tv/8912/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5511.png" catchup-days="7" group-title="Спорт",Сетанта Спорт Украина HD
+http://s.only4.tv/5511/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5583.png" catchup-days="7" group-title="Спорт",Сетанта Спорт Украина
+http://s.only4.tv/5583/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-plus-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6268.png" catchup-days="7" group-title="Спорт",Сетанта Спорт+ Украина HD
+http://s.only4.tv/6268/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="m1global" catchup="shift" tvg-logo="http://1lot.tv/ch/1325.png" catchup-days="3" group-title="Спорт",ММА-ТВ
+http://s.only4.tv/1325/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mir-basketbola" catchup="shift" tvg-logo="http://1lot.tv/ch/1326.png" catchup-days="7" group-title="Спорт",Мир баскетбола
+http://s.only4.tv/1326/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fightbox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5529.png" catchup-days="7" group-title="Спорт",FightBox
+http://s.only4.tv/5529/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fastfunbox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5530.png" catchup-days="7" group-title="Спорт",Fast and FunBox HD
+http://s.only4.tv/5530/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="supertennis" catchup="shift" tvg-logo="http://1lot.tv/ch/6301.png" catchup-days="7" group-title="Спорт",Super Tennis HD
+http://s.only4.tv/6301/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ufc" catchup="shift" tvg-logo="http://1lot.tv/ch/5532.png" catchup-days="7" group-title="Спорт",Удар HD
+http://s.only4.tv/5532/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="drive" catchup="shift" tvg-logo="http://1lot.tv/ch/5563.png" catchup-days="7" group-title="Спорт",Драйв
+http://s.only4.tv/5563/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tvplay-sports" catchup="shift" tvg-logo="http://1lot.tv/ch/5586.png" catchup-days="7" group-title="Спорт",Go3 Sport 1 HD
+http://s.only4.tv/5586/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tvplay-sports-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/6563.png" catchup-days="3" group-title="Спорт",Go3 Sport 2 HD
+http://s.only4.tv/6563/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-hockey-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5587.png" catchup-days="7" group-title="Спорт",V Sport Vinter HD
+http://s.only4.tv/5587/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-1" catchup="shift" tvg-logo="http://1lot.tv/ch/5588.png" catchup-days="7" group-title="Спорт",BeIN Sport 1 HD
+http://s.only4.tv/5588/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-2" catchup="shift" tvg-logo="http://1lot.tv/ch/5589.png" catchup-days="7" group-title="Спорт",BeIN Sport 2 HD
+http://s.only4.tv/5589/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-3" catchup="shift" tvg-logo="http://1lot.tv/ch/5590.png" catchup-days="7" group-title="Спорт",BeIN Sport 3 HD
+http://s.only4.tv/5590/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-4" catchup="shift" tvg-logo="http://1lot.tv/ch/5591.png" catchup-days="7" group-title="Спорт",BeIN Sport 4 HD
+http://s.only4.tv/5591/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-5" catchup="shift" tvg-logo="http://1lot.tv/ch/5592.png" catchup-days="7" group-title="Спорт",BeIN Sport 5 HD
+http://s.only4.tv/5592/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-6" catchup="shift" tvg-logo="http://1lot.tv/ch/5593.png" catchup-days="7" group-title="Спорт",BeIN Sport 6 HD
+http://s.only4.tv/5593/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bein-sport-7" catchup="shift" tvg-logo="http://1lot.tv/ch/9015.png" catchup-days="1" group-title="Спорт",Bein Sports 7 HD
+http://s.only4.tv/9015/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bt-sport1" catchup="shift" tvg-logo="http://1lot.tv/ch/5597.png" catchup-days="7" group-title="Спорт",TNT Sports 1 HD
+http://s.only4.tv/5597/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bt-sport2" catchup="shift" tvg-logo="http://1lot.tv/ch/7915.png" catchup-days="1" group-title="Спорт",TNT Sports 2 HD
+http://s.only4.tv/7915/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bt-sport3" catchup="shift" tvg-logo="http://1lot.tv/ch/5594.png" catchup-days="7" group-title="Спорт",TNT Sports 3 HD
+http://s.only4.tv/5594/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="start" catchup="shift" tvg-logo="http://1lot.tv/ch/6261.png" catchup-days="1" group-title="Спорт",Старт HD
+http://s.only4.tv/6261/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_sport" catchup="shift" tvg-logo="http://1lot.tv/ch/6307.png" catchup-days="1" group-title="Спорт",NBA TV
+http://s.only4.tv/6307/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="xokkejny" catchup="shift" tvg-logo="http://1lot.tv/ch/6511.png" catchup-days="3" group-title="Спорт",Хоккейный HD
+http://s.only4.tv/6511/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_sport" catchup="shift" tvg-logo="http://1lot.tv/ch/6817.png" catchup-days="7" group-title="Спорт",WWE Russian
+http://s.only4.tv/6817/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eurosport1" catchup="shift" tvg-logo="http://1lot.tv/ch/7206.png" catchup-days="7" group-title="Спорт",Eurosport 1 CEE HD
+http://s.only4.tv/7206/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eurosport2" catchup="shift" tvg-logo="http://1lot.tv/ch/7207.png" catchup-days="7" group-title="Спорт",Eurosport 2 CEE HD
+http://s.only4.tv/7207/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="trace-sport-stars" catchup="shift" tvg-logo="http://1lot.tv/ch/7700.png" catchup-days="7" group-title="Спорт",Trace Sport Stars HD
+http://s.only4.tv/7700/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kazsport" catchup="shift" tvg-logo="http://1lot.tv/ch/7728.png" catchup-days="7" group-title="Спорт",Qazsport
+http://s.only4.tv/7728/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="q-sport-ext" catchup="shift" tvg-logo="http://1lot.tv/ch/7730.png" catchup-days="7" group-title="Спорт",Q League HD
+http://s.only4.tv/7730/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta-kz" catchup="shift" tvg-logo="http://1lot.tv/ch/7732.png" catchup-days="7" group-title="Спорт",Setanta Казахстан HD
+http://s.only4.tv/7732/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-fotboll-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7733.png" catchup-days="7" group-title="Спорт",V Sport Football HD
+http://s.only4.tv/7733/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-golf-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7734.png" catchup-days="3" group-title="Спорт",V Sport Golf HD
+http://s.only4.tv/7734/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="match-nash-sport" catchup="shift" tvg-logo="http://1lot.tv/ch/8014.png" catchup-days="1" group-title="Спорт",Матч! Страна HD
+http://s.only4.tv/8014/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_sport" catchup="shift" tvg-logo="http://1lot.tv/ch/8015.png" catchup-days="1" group-title="Спорт",Tennis Channel
+http://s.only4.tv/8015/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8914.png" catchup-days="1" group-title="Спорт",Dubai Sports 2
+http://s.only4.tv/8914/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8915.png" catchup-days="1" group-title="Спорт",Dubai Sports 3
+http://s.only4.tv/8915/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fightbox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/9012.png" catchup-days="1" group-title="Спорт",Fightbox HD
+http://s.only4.tv/9012/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="suspilne-sport-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/9046.png" catchup-days="1" group-title="Спорт",Суспільне Спорт
+http://s.only4.tv/9046/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="qsport-kg" catchup="shift" tvg-logo="http://1lot.tv/ch/9154.png" catchup-days="1" group-title="Спорт",Q Sport.KG
+http://s.only4.tv/9154/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zhivi-aktivno" catchup="shift" tvg-logo="http://1lot.tv/ch/9259.png" catchup-days="1" group-title="Спорт",Живи активно HD
+http://s.only4.tv/9259/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-fitnes" catchup="shift" tvg-logo="http://1lot.tv/ch/9365.png" catchup-days="1" group-title="Спорт",CineMan Фитнес
+http://s.only4.tv/9365/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nickelodeon-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/14106.png" catchup-days="1" group-title="Детские",Nickelodeon HD
+http://s.only4.tv/14106/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nickelodeon-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/709.png" catchup-days="1" group-title="Детские",Nickelodeon
+http://s.only4.tv/709/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nickelodeon-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/8057.png" catchup-days="1" group-title="Детские",Nickelodeon Global UA
+http://s.only4.tv/8057/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="da-vinci" catchup="shift" tvg-logo="http://1lot.tv/ch/19101.png" catchup-days="1" group-title="Детские",Da Vinci Learning
+http://s.only4.tv/19101/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ginger-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0148.png" catchup-days="1" group-title="Детские",Капитан фантастика
+http://s.only4.tv/0148/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" catchup="shift" tvg-logo="http://1lot.tv/ch/425.png" catchup-days="2" group-title="Детские",В гостях у сказки
+http://s.only4.tv/425/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mult" catchup="shift" tvg-logo="http://1lot.tv/ch/0141.png" catchup-days="1" group-title="Детские",Мульт HD
+http://s.only4.tv/0141/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mult" catchup="shift" tvg-logo="http://1lot.tv/ch/407.png" catchup-days="1" group-title="Детские",Мульт
+http://s.only4.tv/407/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="multimania" catchup="shift" tvg-logo="http://1lot.tv/ch/428.png" catchup-days="2" group-title="Детские",Мультиландия
+http://s.only4.tv/428/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="multimuzyka" catchup="shift" tvg-logo="http://1lot.tv/ch/420.png" catchup-days="2" group-title="Детские",Мультимузыка
+http://s.only4.tv/420/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="karusel" catchup="shift" tvg-logo="http://1lot.tv/ch/822.png" catchup-days="2" group-title="Детские",Карусель
+http://s.only4.tv/822/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tiji" catchup="shift" tvg-logo="http://1lot.tv/ch/2121.png" catchup-days="2" group-title="Детские",TiJi TV
+http://s.only4.tv/2121/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="jimjam" catchup="shift" tvg-logo="http://1lot.tv/ch/708.png" catchup-days="1" group-title="Детские",JimJam
+http://s.only4.tv/708/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cartoon-network" catchup="shift" tvg-logo="http://1lot.tv/ch/802.png" catchup-days="1" group-title="Детские",Cartoon network
+http://s.only4.tv/802/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nick-jr" catchup="shift" tvg-logo="http://1lot.tv/ch/814.png" catchup-days="1" group-title="Детские",Nick Jr
+http://s.only4.tv/814/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="o_" catchup="shift" tvg-logo="http://1lot.tv/ch/808.png" catchup-days="1" group-title="Детские",О!
+http://s.only4.tv/808/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="boomerang" catchup="shift" tvg-logo="http://1lot.tv/ch/821.png" catchup-days="1" group-title="Детские",Cartoonito
+http://s.only4.tv/821/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="gulli-girl" catchup="shift" tvg-logo="http://1lot.tv/ch/2122.png" catchup-days="1" group-title="Детские",Gulli Girl
+http://s.only4.tv/2122/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="solnce" catchup="shift" tvg-logo="http://1lot.tv/ch/1312.png" catchup-days="1" group-title="Детские",Солнце RU
+http://s.only4.tv/1312/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="niki-junior" catchup="shift" tvg-logo="http://1lot.tv/ch/5515.png" catchup-days="3" group-title="Детские",Niki Junior HD
+http://s.only4.tv/5515/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="niki-kids" catchup="shift" tvg-logo="http://1lot.tv/ch/5516.png" catchup-days="3" group-title="Детские",Niki Kids HD
+http://s.only4.tv/5516/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="2na2" catchup="shift" tvg-logo="http://1lot.tv/ch/1826.png" catchup-days="1" group-title="Детские",2х2
+http://s.only4.tv/1826/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="2na2-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7582.png" catchup-days="1" group-title="Детские",2х2 (+4)
+http://s.only4.tv/7582/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="2na2-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/8061.png" catchup-days="1" group-title="Детские",2х2 (+7)
+http://s.only4.tv/8061/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-kids-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5571.png" catchup-days="3" group-title="Детские",СТС Kids
+http://s.only4.tv/5571/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fanhd" catchup="shift" tvg-logo="http://1lot.tv/ch/6304.png" catchup-days="1" group-title="Детские",FAN HD
+http://s.only4.tv/6304/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="smaylik-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6546.png" catchup-days="7" group-title="Детские",Смайлик ТВ
+http://s.only4.tv/6546/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="detsky" catchup="shift" tvg-logo="http://1lot.tv/ch/1112.png" catchup-days="2" group-title="Детские",Уникум
+http://s.only4.tv/1112/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="shayantv" catchup="shift" tvg-logo="http://1lot.tv/ch/1117.png" catchup-days="2" group-title="Детские",Шаян ТВ
+http://s.only4.tv/1117/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nicktoons" catchup="shift" tvg-logo="http://1lot.tv/ch/1327.png" catchup-days="1" group-title="Детские",Nicktoons
+http://s.only4.tv/1327/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="malysh" catchup="shift" tvg-logo="http://1lot.tv/ch/122.png" catchup-days="1" group-title="Детские",СуперГерои
+http://s.only4.tv/122/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cartoons-big" catchup="shift" tvg-logo="http://1lot.tv/ch/6836.png" catchup-days="2" group-title="Детские",Cartoons Big
+http://s.only4.tv/6836/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cartoons-short" catchup="shift" tvg-logo="http://1lot.tv/ch/6835.png" catchup-days="3" group-title="Детские",Cartoons Short
+http://s.only4.tv/6835/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cartoons-90" catchup="shift" tvg-logo="http://1lot.tv/ch/6834.png" catchup-days="2" group-title="Детские",Cartoons 90
+http://s.only4.tv/6834/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/6830.png" catchup-days="7" group-title="Детские",Кроха ТВ
+http://s.only4.tv/6830/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/6818.png" catchup-days="7" group-title="Детские",ВЕСЕЛАЯ КАРУСЕЛЬ HD
+http://s.only4.tv/6818/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-multzal-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6702.png" catchup-days="1" group-title="Детские",UZ-МУЛЬТЗАЛ HD
+http://s.only4.tv/6702/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eralashtv" catchup="shift" tvg-logo="http://1lot.tv/ch/6709.png" catchup-days="1" group-title="Детские",UZ-Ералаш ТВ
+http://s.only4.tv/6709/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-malutka" catchup="shift" tvg-logo="http://1lot.tv/ch/6710.png" catchup-days="1" group-title="Детские",UZ-Малютка ТВ
+http://s.only4.tv/6710/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-tomandjerry" catchup="shift" tvg-logo="http://1lot.tv/ch/6716.png" catchup-days="1" group-title="Детские",UZ-Tom and Jerry HD
+http://s.only4.tv/6716/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/9099.png" catchup-days="1" group-title="Детские",UZ-Tom and Jerry SD
+http://s.only4.tv/9099/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-nupogodi" catchup="shift" tvg-logo="http://1lot.tv/ch/7225.png" catchup-days="1" group-title="Детские",UZ-Ну Погоди
+http://s.only4.tv/7225/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-soyuzmult" catchup="shift" tvg-logo="http://1lot.tv/ch/7226.png" catchup-days="1" group-title="Детские",UZ-СоюзМульт HD
+http://s.only4.tv/7226/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-mashamisha" catchup="shift" tvg-logo="http://1lot.tv/ch/8025.png" catchup-days="1" group-title="Детские",UZ-Маша и Медведь HD
+http://s.only4.tv/8025/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-kids-60fps" catchup="shift" tvg-logo="http://1lot.tv/ch/8244.png" catchup-days="1" group-title="Детские",UZ-Kids 60 fps HD
+http://s.only4.tv/8244/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-kids" catchup="shift" tvg-logo="http://1lot.tv/ch/7187.png" catchup-days="1" group-title="Детские",YOSSO TV KIDS
+http://s.only4.tv/7187/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-disney" catchup="shift" tvg-logo="http://1lot.tv/ch/8757.png" catchup-days="1" group-title="Детские",YOSSO TV Disney
+http://s.only4.tv/8757/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-soyuzmult" catchup="shift" tvg-logo="http://1lot.tv/ch/7192.png" catchup-days="1" group-title="Детские",YOSSO TV Союзмульт
+http://s.only4.tv/7192/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="cineman-simps" catchup="shift" tvg-logo="http://1lot.tv/ch/7228.png" catchup-days="1" group-title="Детские",CineMan Симпсоны
+http://s.only4.tv/7228/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Smile" catchup="shift" tvg-logo="http://1lot.tv/ch/7589.png" catchup-days="1" group-title="Детские",Z!Smile HD
+http://s.only4.tv/7589/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-cartoon" catchup="shift" tvg-logo="http://1lot.tv/ch/7638.png" catchup-days="1" group-title="Детские",C-Cartoon
+http://s.only4.tv/7638/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-family" catchup="shift" tvg-logo="http://1lot.tv/ch/8041.png" catchup-days="1" group-title="Детские",KLI Family
+http://s.only4.tv/8041/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klikids" catchup="shift" tvg-logo="http://1lot.tv/ch/8345.png" catchup-days="1" group-title="Детские",KLI Kids FHD
+http://s.only4.tv/8345/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klimult" catchup="shift" tvg-logo="http://1lot.tv/ch/8346.png" catchup-days="1" group-title="Детские",KLI Мультики FHD
+http://s.only4.tv/8346/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no-epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8115.png" catchup-days="1" group-title="Детские",Ералаш HD
+http://s.only4.tv/8115/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no-epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8116.png" catchup-days="1" group-title="Детские",Том и Джерри
+http://s.only4.tv/8116/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ducktv" catchup="shift" tvg-logo="http://1lot.tv/ch/8151.png" catchup-days="3" group-title="Детские",Duck TV
+http://s.only4.tv/8151/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ducktv" catchup="shift" tvg-logo="http://1lot.tv/ch/8152.png" catchup-days="3" group-title="Детские",Duck HD
+http://s.only4.tv/8152/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ducktv-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/8153.png" catchup-days="3" group-title="Детские",Duck plus HD
+http://s.only4.tv/8153/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sts-kids-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8156.png" catchup-days="1" group-title="Детские",СТС Kids HD
+http://s.only4.tv/8156/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/8220.png" catchup-days="1" group-title="Детские",Sky2000 Mult RU
+http://s.only4.tv/8220/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/8221.png" catchup-days="1" group-title="Детские",Sky2000 Mult SU
+http://s.only4.tv/8221/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ryzhy" catchup="shift" tvg-logo="http://1lot.tv/ch/8418.png" catchup-days="1" group-title="Детские",Рыжий
+http://s.only4.tv/8418/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mama" catchup="shift" tvg-logo="http://1lot.tv/ch/19120.png" catchup-days="1" group-title="Детские",Мама
+http://s.only4.tv/19120/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="prokopmasyanya" catchup="shift" tvg-logo="http://1lot.tv/ch/8500.png" catchup-days="1" group-title="Детские",Prokop TV Масяня
+http://s.only4.tv/8500/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/9041.png" catchup-days="1" group-title="Детские",Репка HD
+http://s.only4.tv/9041/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="detsky-mir" catchup="shift" tvg-logo="http://1lot.tv/ch/8599.png" catchup-days="1" group-title="Детские",Детский Мир
+http://s.only4.tv/8599/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="liova" catchup="shift" tvg-logo="http://1lot.tv/ch/8600.png" catchup-days="1" group-title="Детские",Лёва HD
+http://s.only4.tv/8600/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/8827.png" catchup-days="1" group-title="Детские",Diafilm Children
+http://s.only4.tv/8827/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="chizhik" catchup="shift" tvg-logo="http://1lot.tv/ch/9014.png" catchup-days="1" group-title="Детские",Чижик
+http://s.only4.tv/9014/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_mult" catchup="shift" tvg-logo="http://1lot.tv/ch/9044.png" catchup-days="1" group-title="Детские",Sky2000 Mult MM HD
+http://s.only4.tv/9044/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayEralash.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9224.png" catchup-days="1" group-title="Детские",TVPlay Ералаш
+http://s.only4.tv/9224/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="lapki-live" catchup="shift" tvg-logo="http://1lot.tv/ch/9401.png" catchup-days="1" group-title="Детские",Лапки Live
+http://s.only4.tv/9401/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pingvin-lolo" catchup="shift" tvg-logo="http://1lot.tv/ch/9408.png" catchup-days="1" group-title="Детские",Пингвин Лоло
+http://s.only4.tv/9408/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5519.png" catchup-days="1" group-title="Познавательные",Дикая рыбалка HD
+http://s.only4.tv/5519/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5518.png" catchup-days="1" group-title="Познавательные",Дикая охота HD
+http://s.only4.tv/5518/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="h2" catchup="shift" tvg-logo="http://1lot.tv/ch/0205.png" catchup-days="2" group-title="Познавательные",H2
+http://s.only4.tv/0205/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="national-geographic" catchup="shift" tvg-logo="http://1lot.tv/ch/0203.png" catchup-days="7" group-title="Познавательные",National Geographic HD
+http://s.only4.tv/0203/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="national-geographic" catchup="shift" tvg-logo="http://1lot.tv/ch/813.png" catchup-days="7" group-title="Познавательные",National Geographic
+http://s.only4.tv/813/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="terra-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/8496.png" catchup-days="1" group-title="Познавательные",Terra HD [RU]
+http://s.only4.tv/8496/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="terra-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/8495.png" catchup-days="7" group-title="Познавательные",Terra [RU]
+http://s.only4.tv/8495/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nat-geo-wild" catchup="shift" tvg-logo="http://1lot.tv/ch/20101.png" catchup-days="7" group-title="Познавательные",Nat Geo Wild HD
+http://s.only4.tv/20101/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nat-geo-wild" catchup="shift" tvg-logo="http://1lot.tv/ch/19116.png" catchup-days="7" group-title="Познавательные",Nat Geo Wild
+http://s.only4.tv/19116/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="travel-channel" catchup="shift" tvg-logo="http://1lot.tv/ch/26006.png" catchup-days="2" group-title="Познавательные",Travel Channel Europe HD
+http://s.only4.tv/26006/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="prikluchenia-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0136.png" catchup-days="1" group-title="Познавательные",Приключения HD
+http://s.only4.tv/0136/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eureka-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0145.png" catchup-days="3" group-title="Познавательные",Первый Космический
+http://s.only4.tv/0145/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0144.png" catchup-days="7" group-title="Познавательные",Охотник и рыболов HD
+http://s.only4.tv/0144/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="moya-planeta" catchup="shift" tvg-logo="http://1lot.tv/ch/0168.png" catchup-days="1" group-title="Познавательные",Моя планета HD
+http://s.only4.tv/0168/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rtg-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0125.png" catchup-days="1" group-title="Познавательные",RTG HD
+http://s.only4.tv/0125/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="hd-life" catchup="shift" tvg-logo="http://1lot.tv/ch/12103.png" catchup-days="7" group-title="Познавательные",HDL
+http://s.only4.tv/12103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="discovery-channel" catchup="shift" tvg-logo="http://1lot.tv/ch/12105.png" catchup-days="7" group-title="Познавательные",Discovery Channel HD CEE
+http://s.only4.tv/12105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="discovery-channel" catchup="shift" tvg-logo="http://1lot.tv/ch/803.png" catchup-days="7" group-title="Познавательные",Discovery Channel
+http://s.only4.tv/803/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="animal-planet-eu" catchup="shift" tvg-logo="http://1lot.tv/ch/2202.png" catchup-days="7" group-title="Познавательные",Animal Planet HD CEE
+http://s.only4.tv/2202/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="travel-adventure" catchup="shift" tvg-logo="http://1lot.tv/ch/713.png" catchup-days="2" group-title="Познавательные",Travel+Adventure HD
+http://s.only4.tv/713/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sovsek" catchup="shift" tvg-logo="http://1lot.tv/ch/2115.png" catchup-days="7" group-title="Познавательные",Совершенно секретно
+http://s.only4.tv/2115/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" catchup="shift" tvg-logo="http://1lot.tv/ch/2105.png" catchup-days="1" group-title="Познавательные",Диалоги о рыбалке
+http://s.only4.tv/2105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="trofey" catchup="shift" tvg-logo="http://1lot.tv/ch/7693.png" catchup-days="1" group-title="Познавательные",Трофей HD
+http://s.only4.tv/7693/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="trofey" catchup="shift" tvg-logo="http://1lot.tv/ch/6181.png" catchup-days="3" group-title="Познавательные",Трофей
+http://s.only4.tv/6181/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="moya-planeta" catchup="shift" tvg-logo="http://1lot.tv/ch/1805.png" catchup-days="1" group-title="Познавательные",Моя планета
+http://s.only4.tv/1805/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fauna" catchup="shift" tvg-logo="http://1lot.tv/ch/6182.png" catchup-days="3" group-title="Познавательные",Фауна
+http://s.only4.tv/6182/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dikiy" catchup="shift" tvg-logo="http://1lot.tv/ch/2128.png" catchup-days="3" group-title="Познавательные",Дикий
+http://s.only4.tv/2128/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zoopark" catchup="shift" tvg-logo="http://1lot.tv/ch/1113.png" catchup-days="3" group-title="Познавательные",ZooПарк
+http://s.only4.tv/1113/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zhivaya-priroda" catchup="shift" tvg-logo="http://1lot.tv/ch/0217.png" catchup-days="1" group-title="Познавательные",Живая природа HD
+http://s.only4.tv/0217/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" catchup="shift" tvg-logo="http://1lot.tv/ch/715.png" catchup-days="3" group-title="Познавательные",Загородная жизнь
+http://s.only4.tv/715/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="usadba" catchup="shift" tvg-logo="http://1lot.tv/ch/19113.png" catchup-days="1" group-title="Познавательные",Усадьба
+http://s.only4.tv/19113/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-nature-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/6458.png" catchup-days="7" group-title="Познавательные",Viju Nature HD
+http://s.only4.tv/6458/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-nature-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/19107.png" catchup-days="7" group-title="Познавательные",Viju Nature
+http://s.only4.tv/19107/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/17105.png" catchup-days="1" group-title="Познавательные",Viju+ Planet HD
+http://s.only4.tv/17105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-history" catchup="shift" tvg-logo="http://1lot.tv/ch/6459.png" catchup-days="3" group-title="Познавательные",Viju History HD
+http://s.only4.tv/6459/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-history" catchup="shift" tvg-logo="http://1lot.tv/ch/19106.png" catchup-days="7" group-title="Познавательные",Viju History
+http://s.only4.tv/19106/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-explore" catchup="shift" tvg-logo="http://1lot.tv/ch/6460.png" catchup-days="5" group-title="Познавательные",Viju Explore HD
+http://s.only4.tv/6460/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-explore" catchup="shift" tvg-logo="http://1lot.tv/ch/19105.png" catchup-days="7" group-title="Познавательные",Viju Explore
+http://s.only4.tv/19105/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tlc" catchup="shift" tvg-logo="http://1lot.tv/ch/815.png" catchup-days="3" group-title="Познавательные",TLC PAN
+http://s.only4.tv/815/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bobior" catchup="shift" tvg-logo="http://1lot.tv/ch/818.png" catchup-days="2" group-title="Познавательные",Бобер
+http://s.only4.tv/818/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="food-network-eu" catchup="shift" tvg-logo="http://1lot.tv/ch/6461.png" catchup-days="1" group-title="Познавательные",Food Network HD
+http://s.only4.tv/6461/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="food-network-eu" catchup="shift" tvg-logo="http://1lot.tv/ch/416.png" catchup-days="1" group-title="Познавательные",Food Network
+http://s.only4.tv/416/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="365-dnej" catchup="shift" tvg-logo="http://1lot.tv/ch/101.png" catchup-days="7" group-title="Познавательные",365 дней ТВ
+http://s.only4.tv/101/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dacha" catchup="shift" tvg-logo="http://1lot.tv/ch/6184.png" catchup-days="3" group-title="Познавательные",Дача
+http://s.only4.tv/6184/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="epoque" catchup="shift" tvg-logo="http://1lot.tv/ch/6185.png" catchup-days="3" group-title="Познавательные",Світло
+http://s.only4.tv/6185/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="terra" catchup="shift" tvg-logo="http://1lot.tv/ch/6186.png" catchup-days="3" group-title="Познавательные",Terra [UA]
+http://s.only4.tv/6186/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nauka" catchup="shift" tvg-logo="http://1lot.tv/ch/6187.png" catchup-days="3" group-title="Познавательные",Наука
+http://s.only4.tv/6187/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nauka-20" catchup="shift" tvg-logo="http://1lot.tv/ch/5526.png" catchup-days="1" group-title="Познавательные",Наука 2.0 HD
+http://s.only4.tv/5526/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="english-club-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/5527.png" catchup-days="1" group-title="Познавательные",English Club
+http://s.only4.tv/5527/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="oruzhie" catchup="shift" tvg-logo="http://1lot.tv/ch/5565.png" catchup-days="2" group-title="Познавательные",Оружие
+http://s.only4.tv/5565/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="texno-24" catchup="shift" tvg-logo="http://1lot.tv/ch/5566.png" catchup-days="1" group-title="Познавательные",Т-24
+http://s.only4.tv/5566/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="glazami-turista" catchup="shift" tvg-logo="http://1lot.tv/ch/0252.png" catchup-days="1" group-title="Познавательные",Глазами туриста
+http://s.only4.tv/0252/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="avto24" catchup="shift" tvg-logo="http://1lot.tv/ch/702.png" catchup-days="3" group-title="Познавательные",Авто24
+http://s.only4.tv/702/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="avto-plus" catchup="shift" tvg-logo="http://1lot.tv/ch/102.png" catchup-days="1" group-title="Познавательные",Авто Плюс
+http://s.only4.tv/102/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kuxnia-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0283.png" catchup-days="5" group-title="Познавательные",Кухня ТВ
+http://s.only4.tv/0283/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="galaxy-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7941.png" catchup-days="1" group-title="Познавательные",Тайны галактики HD
+http://s.only4.tv/7941/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="galaxy-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/5598.png" catchup-days="2" group-title="Познавательные",Тайны галактики
+http://s.only4.tv/5598/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/5599.png" catchup-days="2" group-title="Познавательные",В мире животных HD
+http://s.only4.tv/5599/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="poexali" catchup="shift" tvg-logo="http://1lot.tv/ch/805.png" catchup-days="1" group-title="Познавательные",Поехали!
+http://s.only4.tv/805/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="istoria" catchup="shift" tvg-logo="http://1lot.tv/ch/1822.png" catchup-days="1" group-title="Познавательные",История
+http://s.only4.tv/1822/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="e-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/423.png" catchup-days="1" group-title="Познавательные",E! TV
+http://s.only4.tv/423/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="hgtv" catchup="shift" tvg-logo="http://1lot.tv/ch/6299.png" catchup-days="1" group-title="Познавательные",HGTV HD
+http://s.only4.tv/6299/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="love-nature-4k" catchup="shift" tvg-logo="http://1lot.tv/ch/6305.png" catchup-days="1" group-title="Познавательные",Love Nature HD
+http://s.only4.tv/6305/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" catchup="shift" tvg-logo="http://1lot.tv/ch/19112.png" catchup-days="2" group-title="Познавательные",Домашние животные
+http://s.only4.tv/19112/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bolshaya-azia" catchup="shift" tvg-logo="http://1lot.tv/ch/6306.png" catchup-days="2" group-title="Познавательные",Большая Азия HD
+http://s.only4.tv/6306/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="morskoy" catchup="shift" tvg-logo="http://1lot.tv/ch/414.png" catchup-days="1" group-title="Познавательные",Моя стихия
+http://s.only4.tv/414/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kosmohd" catchup="shift" tvg-logo="http://1lot.tv/ch/6829.png" catchup-days="7" group-title="Познавательные",Космо HD
+http://s.only4.tv/6829/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/6810.png" catchup-days="2" group-title="Познавательные",Юнит HD
+http://s.only4.tv/6810/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/6866.png" catchup-days="1" group-title="Познавательные",Red Bull TV HD
+http://s.only4.tv/6866/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zagorodny-int" catchup="shift" tvg-logo="http://1lot.tv/ch/6880.png" catchup-days="1" group-title="Познавательные",Загородный Int HD
+http://s.only4.tv/6880/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bambarbia" catchup="shift" tvg-logo="http://1lot.tv/ch/7673.png" catchup-days="1" group-title="Познавательные",Bambarbia TВ
+http://s.only4.tv/7673/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eureka-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7703.png" catchup-days="1" group-title="Познавательные",Первый Космический HD
+http://s.only4.tv/7703/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="id-xtra-eu" catchup="shift" tvg-logo="http://1lot.tv/ch/7707.png" catchup-days="1" group-title="Познавательные",ID Xtra HD
+http://s.only4.tv/7707/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="e-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7715.png" catchup-days="1" group-title="Познавательные",E! TV HD
+http://s.only4.tv/7715/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="museum-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/7725.png" catchup-days="1" group-title="Познавательные",Museum HD
+http://s.only4.tv/7725/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="myzen-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7726.png" catchup-days="1" group-title="Познавательные",myZen.tv HD
+http://s.only4.tv/7726/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nasa4k" catchup="shift" tvg-logo="http://1lot.tv/ch/7727.png" catchup-days="1" group-title="Познавательные",Nasa TV HD
+http://s.only4.tv/7727/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rybalka" catchup="shift" tvg-logo="http://1lot.tv/ch/7744.png" catchup-days="1" group-title="Познавательные",Рыбалка HD
+http://s.only4.tv/7744/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-explore-cee" catchup="shift" tvg-logo="http://1lot.tv/ch/7746.png" catchup-days="1" group-title="Познавательные",Viasat Explore CEE
+http://s.only4.tv/7746/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="viasat-history-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8792.png" catchup-days="1" group-title="Познавательные",Viasat History HD CEE
+http://s.only4.tv/8792/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="history-eu" catchup="shift" tvg-logo="http://1lot.tv/ch/7747.png" catchup-days="7" group-title="Познавательные",History CEE HD
+http://s.only4.tv/7747/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" catchup="shift" tvg-logo="http://1lot.tv/ch/7754.png" catchup-days="1" group-title="Познавательные",Загородная жизнь HD
+http://s.only4.tv/7754/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8019.png" catchup-days="1" group-title="Познавательные",Каббала ТВ
+http://s.only4.tv/8019/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eda-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0137.png" catchup-days="1" group-title="Познавательные",Food Time HD
+http://s.only4.tv/0137/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zdorovoe-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6265.png" catchup-days="1" group-title="Познавательные",Здоровое ТВ
+http://s.only4.tv/6265/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="doktor" catchup="shift" tvg-logo="http://1lot.tv/ch/7702.png" catchup-days="1" group-title="Познавательные",Доктор HD
+http://s.only4.tv/7702/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="doktor" catchup="shift" tvg-logo="http://1lot.tv/ch/1310.png" catchup-days="1" group-title="Познавательные",Доктор
+http://s.only4.tv/1310/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="voprosy-i-otvety" catchup="shift" tvg-logo="http://1lot.tv/ch/6262.png" catchup-days="1" group-title="Познавательные",Вопросы и ответы
+http://s.only4.tv/6262/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="okino" catchup="shift" tvg-logo="http://1lot.tv/ch/6643.png" catchup-days="1" group-title="Познавательные",О!Кино
+http://s.only4.tv/6643/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="fashion-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0211.png" catchup-days="1" group-title="Познавательные",Fashion TV HD
+http://s.only4.tv/0211/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntv-pravo" catchup="shift" tvg-logo="http://1lot.tv/ch/406.png" catchup-days="1" group-title="Познавательные",HTB право
+http://s.only4.tv/406/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zal-suda" catchup="shift" tvg-logo="http://1lot.tv/ch/6512.png" catchup-days="1" group-title="Познавательные",Зал суда
+http://s.only4.tv/6512/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="docubox-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8125.png" catchup-days="1" group-title="Познавательные",DocuBox
+http://s.only4.tv/8125/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nautical-channel" catchup="shift" tvg-logo="http://1lot.tv/ch/8143.png" catchup-days="1" group-title="Познавательные",Nautical Channel HD
+http://s.only4.tv/8143/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sea-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/8144.png" catchup-days="1" group-title="Познавательные",Sea TV HD
+http://s.only4.tv/8144/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ocean-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/8145.png" catchup-days="1" group-title="Познавательные",Ocean TV
+http://s.only4.tv/8145/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mir-vokrug" catchup="shift" tvg-logo="http://1lot.tv/ch/8174.png" catchup-days="1" group-title="Познавательные",Мир Вокруг HD
+http://s.only4.tv/8174/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nasha-tema" catchup="shift" tvg-logo="http://1lot.tv/ch/8176.png" catchup-days="1" group-title="Познавательные",Наша Тема
+http://s.only4.tv/8176/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nasha-tema" catchup="shift" tvg-logo="http://1lot.tv/ch/8177.png" catchup-days="1" group-title="Познавательные",Наша Тема HD
+http://s.only4.tv/8177/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="telekafe" catchup="shift" tvg-logo="http://1lot.tv/ch/8187.png" catchup-days="1" group-title="Познавательные",Телекафе
+http://s.only4.tv/8187/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="psixologia-21" catchup="shift" tvg-logo="http://1lot.tv/ch/8192.png" catchup-days="1" group-title="Познавательные",Психология 21
+http://s.only4.tv/8192/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Travel" catchup="shift" tvg-logo="http://1lot.tv/ch/8241.png" catchup-days="1" group-title="Познавательные",Z!Travel HD
+http://s.only4.tv/8241/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Z_Science" catchup="shift" tvg-logo="http://1lot.tv/ch/8248.png" catchup-days="1" group-title="Познавательные",Z!Science HD
+http://s.only4.tv/8248/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica" catchup="shift" tvg-logo="http://1lot.tv/ch/5562.png" catchup-days="1" group-title="Познавательные",Пятница HD
+http://s.only4.tv/5562/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica" catchup="shift" tvg-logo="http://1lot.tv/ch/1009.png" catchup-days="1" group-title="Познавательные",Пятница
+http://s.only4.tv/1009/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica-pl2" catchup="shift" tvg-logo="http://1lot.tv/ch/7564.png" catchup-days="1" group-title="Познавательные",Пятница (+2)
+http://s.only4.tv/7564/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica-pl4" catchup="shift" tvg-logo="http://1lot.tv/ch/7565.png" catchup-days="1" group-title="Познавательные",Пятница (+4)
+http://s.only4.tv/7565/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica-pl7" catchup="shift" tvg-logo="http://1lot.tv/ch/7566.png" catchup-days="1" group-title="Познавательные",Пятница (+7)
+http://s.only4.tv/7566/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="teledom" catchup="shift" tvg-logo="http://1lot.tv/ch/8010.png" catchup-days="1" group-title="Познавательные",Теледом ТВ
+http://s.only4.tv/8010/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntv-style" catchup="shift" tvg-logo="http://1lot.tv/ch/415.png" catchup-days="1" group-title="Познавательные",HTB стиль
+http://s.only4.tv/415/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kto-est-kto" catchup="shift" tvg-logo="http://1lot.tv/ch/109.png" catchup-days="1" group-title="Познавательные",Кто есть кто
+http://s.only4.tv/109/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zhivi" catchup="shift" tvg-logo="http://1lot.tv/ch/6224.png" catchup-days="1" group-title="Познавательные",Живи
+http://s.only4.tv/6224/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klidocu" catchup="shift" tvg-logo="http://1lot.tv/ch/8504.png" catchup-days="1" group-title="Познавательные",KLI Docu HD
+http://s.only4.tv/8504/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="big-planet" catchup="shift" tvg-logo="http://1lot.tv/ch/8601.png" catchup-days="1" group-title="Познавательные",Big Planet
+http://s.only4.tv/8601/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="quiz-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/8794.png" catchup-days="1" group-title="Познавательные",Quiz TV HD
+http://s.only4.tv/8794/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8795.png" catchup-days="1" group-title="Познавательные",GEM Food
+http://s.only4.tv/8795/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="teleputeshestvia" catchup="shift" tvg-logo="http://1lot.tv/ch/8796.png" catchup-days="1" group-title="Познавательные",Телепутешествия
+http://s.only4.tv/8796/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kriminalnoe-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8841.png" catchup-days="1" group-title="Познавательные",Криминальное HD
+http://s.only4.tv/8841/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8903.png" catchup-days="1" group-title="Познавательные",Кулинар ТВ
+http://s.only4.tv/8903/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8924.png" catchup-days="1" group-title="Познавательные",Loupe TV
+http://s.only4.tv/8924/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8925.png" catchup-days="1" group-title="Познавательные",WORLD HD
+http://s.only4.tv/8925/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="piatnica-int" catchup="shift" tvg-logo="http://1lot.tv/ch/8974.png" catchup-days="1" group-title="Познавательные",Пятница International
+http://s.only4.tv/8974/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="utravel" catchup="shift" tvg-logo="http://1lot.tv/ch/9007.png" catchup-days="1" group-title="Познавательные",U Travel
+http://s.only4.tv/9007/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-food" catchup="shift" tvg-logo="http://1lot.tv/ch/9248.png" catchup-days="1" group-title="Познавательные",Yosso TV Food
+http://s.only4.tv/9248/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-science" catchup="shift" tvg-logo="http://1lot.tv/ch/9249.png" catchup-days="1" group-title="Познавательные",Yosso TV Science
+http://s.only4.tv/9249/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-nature" catchup="shift" tvg-logo="http://1lot.tv/ch/9250.png" catchup-days="1" group-title="Познавательные",Yosso TV Nature
+http://s.only4.tv/9250/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-travel" catchup="shift" tvg-logo="http://1lot.tv/ch/9251.png" catchup-days="1" group-title="Познавательные",Yosso TV Travel
+http://s.only4.tv/9251/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pervy-vegetariansky" catchup="shift" tvg-logo="http://1lot.tv/ch/9260.png" catchup-days="1" group-title="Познавательные",Первый вегетарианский
+http://s.only4.tv/9260/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="teatr" catchup="shift" tvg-logo="http://1lot.tv/ch/9261.png" catchup-days="1" group-title="Познавательные",Театр
+http://s.only4.tv/9261/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="KLIOrelReshca" catchup="shift" tvg-logo="http://1lot.tv/ch/9399.png" catchup-days="1" group-title="Познавательные",KLI Орёл и решка HD
+http://s.only4.tv/9399/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muzhskoy" catchup="shift" tvg-logo="http://1lot.tv/ch/9402.png" catchup-days="1" group-title="Познавательные",Мужской
+http://s.only4.tv/9402/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="oxota-i-rybalka" catchup="shift" tvg-logo="http://1lot.tv/ch/9403.png" catchup-days="1" group-title="Познавательные",Охота и рыбалка
+http://s.only4.tv/9403/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mir-uvlecheniy" catchup="shift" tvg-logo="http://1lot.tv/ch/9410.png" catchup-days="1" group-title="Познавательные",Кто-Куда
+http://s.only4.tv/9410/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vh1-classic" catchup="shift" tvg-logo="http://1lot.tv/ch/816.png" catchup-days="1" group-title="Музыка",MTV 80s
+http://s.only4.tv/816/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mtv-rocks" catchup="shift" tvg-logo="http://1lot.tv/ch/812.png" catchup-days="1" group-title="Музыка",MTV 90s
+http://s.only4.tv/812/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vh1-european" catchup="shift" tvg-logo="http://1lot.tv/ch/817.png" catchup-days="1" group-title="Музыка",MTV 00s
+http://s.only4.tv/817/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mtv-live-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/6308.png" catchup-days="1" group-title="Музыка",MTV Live HD
+http://s.only4.tv/6308/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mtv-hits" catchup="shift" tvg-logo="http://1lot.tv/ch/811.png" catchup-days="1" group-title="Музыка",MTV Hits
+http://s.only4.tv/811/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mtv-europe" catchup="shift" tvg-logo="http://1lot.tv/ch/810.png" catchup-days="1" group-title="Музыка",MTV Europe
+http://s.only4.tv/810/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mtv-dance" catchup="shift" tvg-logo="http://1lot.tv/ch/8129.png" catchup-days="1" group-title="Музыка",MTV Club
+http://s.only4.tv/8129/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muzyka-pervogo" catchup="shift" tvg-logo="http://1lot.tv/ch/823.png" catchup-days="1" group-title="Музыка",Музыка Первого
+http://s.only4.tv/823/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="europa-plus-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/103.png" catchup-days="1" group-title="Музыка",Europa Plus TV
+http://s.only4.tv/103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/2206.png" catchup-days="1" group-title="Музыка",Bridge TV Deluxe
+http://s.only4.tv/2206/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0297.png" catchup-days="1" group-title="Музыка",Bridge TV
+http://s.only4.tv/0297/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-tv-dance" catchup="shift" tvg-logo="http://1lot.tv/ch/1818.png" catchup-days="1" group-title="Музыка",Bridge TV HITS
+http://s.only4.tv/1818/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" catchup="shift" tvg-logo="http://1lot.tv/ch/2119.png" catchup-days="1" group-title="Музыка",Bridge TV Русский хит
+http://s.only4.tv/2119/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-tv-classic" catchup="shift" tvg-logo="http://1lot.tv/ch/2118.png" catchup-days="1" group-title="Музыка",Bridge TV Classic
+http://s.only4.tv/2118/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ru-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/1812.png" catchup-days="1" group-title="Музыка",RU.TV
+http://s.only4.tv/1812/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muztv" catchup="shift" tvg-logo="http://1lot.tv/ch/1313.png" catchup-days="1" group-title="Музыка",Муз-ТВ
+http://s.only4.tv/1313/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt-music" catchup="shift" tvg-logo="http://1lot.tv/ch/7536.png" catchup-days="1" group-title="Музыка",ТНТ-Music HD
+http://s.only4.tv/7536/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tnt-music" catchup="shift" tvg-logo="http://1lot.tv/ch/1324.png" catchup-days="1" group-title="Музыка",ТНТ-Music
+http://s.only4.tv/1324/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mcm-top" catchup="shift" tvg-logo="http://1lot.tv/ch/1809.png" catchup-days="1" group-title="Музыка",MCM Top
+http://s.only4.tv/1809/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-music-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0257.png" catchup-days="1" group-title="Музыка",Stingray CMusic
+http://s.only4.tv/0257/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="iconcerts" catchup="shift" tvg-logo="http://1lot.tv/ch/5572.png" catchup-days="1" group-title="Музыка",Stingray IConcerts HD
+http://s.only4.tv/5572/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="m1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0175.png" catchup-days="1" group-title="Музыка",М1
+http://s.only4.tv/0175/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="m1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5601.png" catchup-days="1" group-title="Музыка",М1 HD
+http://s.only4.tv/5601/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="m2-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5602.png" catchup-days="1" group-title="Музыка",М2 HD
+http://s.only4.tv/5602/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="m2-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0176.png" catchup-days="1" group-title="Музыка",М2
+http://s.only4.tv/0176/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="la-minor" catchup="shift" tvg-logo="http://1lot.tv/ch/0284.png" catchup-days="1" group-title="Музыка",Ля-минор
+http://s.only4.tv/0284/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="shanson-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/724.png" catchup-days="1" group-title="Музыка",Шансон ТВ
+http://s.only4.tv/724/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eu-music" catchup="shift" tvg-logo="http://1lot.tv/ch/5517.png" catchup-days="1" group-title="Музыка",Eu Music
+http://s.only4.tv/5517/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="4ever-music" catchup="shift" tvg-logo="http://1lot.tv/ch/5512.png" catchup-days="1" group-title="Музыка",4ever Music
+http://s.only4.tv/5512/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zhara" catchup="shift" tvg-logo="http://1lot.tv/ch/6462.png" catchup-days="1" group-title="Музыка",Жара HD
+http://s.only4.tv/6462/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zhara" catchup="shift" tvg-logo="http://1lot.tv/ch/123.png" catchup-days="1" group-title="Музыка",Жара
+http://s.only4.tv/123/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mezzo-live-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/20103.png" catchup-days="1" group-title="Музыка",Mezzo Live HD
+http://s.only4.tv/20103/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1hd" catchup="shift" tvg-logo="http://1lot.tv/ch/0256.png" catchup-days="1" group-title="Музыка",1HD Music Television
+http://s.only4.tv/0256/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ru-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6516.png" catchup-days="1" group-title="Музыка",RU.TV HD
+http://s.only4.tv/6516/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="russian-musicbox" catchup="shift" tvg-logo="http://1lot.tv/ch/6518.png" catchup-days="2" group-title="Музыка",Russian Music box
+http://s.only4.tv/6518/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="matur-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6531.png" catchup-days="1" group-title="Музыка",Матур ТВ HD
+http://s.only4.tv/6531/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6549.png" catchup-days="2" group-title="Музыка",Страна FM
+http://s.only4.tv/6549/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tancuj" catchup="shift" tvg-logo="http://1lot.tv/ch/1806.png" catchup-days="1" group-title="Музыка",Танцуй
+http://s.only4.tv/1806/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/6801.png" catchup-days="1" group-title="Музыка",TOP: Великолепный Век
+http://s.only4.tv/6801/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bridge-tv-shlager" catchup="shift" tvg-logo="http://1lot.tv/ch/6872.png" catchup-days="1" group-title="Музыка",Bridge TV Шлягер
+http://s.only4.tv/6872/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="clubbing-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6873.png" catchup-days="1" group-title="Музыка",Clubbing TV HD
+http://s.only4.tv/6873/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="o2tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6876.png" catchup-days="1" group-title="Музыка",О2! HD
+http://s.only4.tv/6876/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="aiva" catchup="shift" tvg-logo="http://1lot.tv/ch/6881.png" catchup-days="1" group-title="Музыка",AIVA HD
+http://s.only4.tv/6881/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="vostok-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6869.png" catchup-days="1" group-title="Музыка",ВОСТОК ТВ
+http://s.only4.tv/6869/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="uz-klip-new" catchup="shift" tvg-logo="http://1lot.tv/ch/6704.png" catchup-days="1" group-title="Музыка",UZ-KLIP NEW HD
+http://s.only4.tv/6704/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="yosso-musichits" catchup="shift" tvg-logo="http://1lot.tv/ch/7193.png" catchup-days="1" group-title="Музыка",YOSSO TV Music Hits
+http://s.only4.tv/7193/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/7590.png" catchup-days="1" group-title="Музыка",Z!Music HD
+http://s.only4.tv/7590/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/7591.png" catchup-days="1" group-title="Музыка",Z!Rock HD
+http://s.only4.tv/7591/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="inrating" catchup="shift" tvg-logo="http://1lot.tv/ch/7649.png" catchup-days="1" group-title="Музыка",INRATING TV
+http://s.only4.tv/7649/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="onemuz" catchup="shift" tvg-logo="http://1lot.tv/ch/7650.png" catchup-days="1" group-title="Музыка",Первый Музыкальный
+http://s.only4.tv/7650/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="onemuz" catchup="shift" tvg-logo="http://1lot.tv/ch/7651.png" catchup-days="1" group-title="Музыка",Первый Музыкальный HD
+http://s.only4.tv/7651/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="onemuz" catchup="shift" tvg-logo="http://1lot.tv/ch/7652.png" catchup-days="1" group-title="Музыка",Первый Музыкальный (RU)
+http://s.only4.tv/7652/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="onemuz" catchup="shift" tvg-logo="http://1lot.tv/ch/7653.png" catchup-days="1" group-title="Музыка",Первый Музыкальный (RU) HD
+http://s.only4.tv/7653/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/7657.png" catchup-days="1" group-title="Музыка",Nasha Rock TV
+http://s.only4.tv/7657/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="radio-shanson" catchup="shift" tvg-logo="http://1lot.tv/ch/7682.png" catchup-days="1" group-title="Музыка",Радио Шансон ТВ HD
+http://s.only4.tv/7682/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="musicbox" catchup="shift" tvg-logo="http://1lot.tv/ch/7724.png" catchup-days="1" group-title="Музыка",Music Box Gold
+http://s.only4.tv/7724/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="song-tv-ru" catchup="shift" tvg-logo="http://1lot.tv/ch/7757.png" catchup-days="1" group-title="Музыка",Song TV Russia
+http://s.only4.tv/7757/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-music" catchup="shift" tvg-logo="http://1lot.tv/ch/8032.png" catchup-days="1" group-title="Музыка",KLI Music
+http://s.only4.tv/8032/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-hit90" catchup="shift" tvg-logo="http://1lot.tv/ch/8034.png" catchup-days="1" group-title="Музыка",KLI Hit 90
+http://s.only4.tv/8034/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-retro" catchup="shift" tvg-logo="http://1lot.tv/ch/8059.png" catchup-days="1" group-title="Музыка",KLI Retro
+http://s.only4.tv/8059/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kli-club" catchup="shift" tvg-logo="http://1lot.tv/ch/8062.png" catchup-days="1" group-title="Музыка",KLI CLUB
+http://s.only4.tv/8062/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kliconcert" catchup="shift" tvg-logo="http://1lot.tv/ch/8494.png" catchup-days="1" group-title="Музыка",KLI Concert FHD
+http://s.only4.tv/8494/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klishanson" catchup="shift" tvg-logo="http://1lot.tv/ch/8503.png" catchup-days="1" group-title="Музыка",KLI Шансон HD
+http://s.only4.tv/8503/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klimillennium" catchup="shift" tvg-logo="http://1lot.tv/ch/8743.png" catchup-days="1" group-title="Музыка",KLI Millennium HD
+http://s.only4.tv/8743/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="klirelax" catchup="shift" tvg-logo="http://1lot.tv/ch/9363.png" catchup-days="1" group-title="Музыка",KLI Relax
+http://s.only4.tv/9363/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="360-tunebox" catchup="shift" tvg-logo="http://1lot.tv/ch/8130.png" catchup-days="1" group-title="Музыка",360 TuneBox HD
+http://s.only4.tv/8130/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-music-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8139.png" catchup-days="1" group-title="Музыка",Наше Music HD
+http://s.only4.tv/8139/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="c-live" catchup="shift" tvg-logo="http://1lot.tv/ch/8253.png" catchup-days="1" group-title="Музыка",Citrus Live HD
+http://s.only4.tv/8253/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Russkaja_Popsa" catchup="shift" tvg-logo="http://1lot.tv/ch/8272.png" catchup-days="1" group-title="Музыка",VB Русская Попса 80х-90х
+http://s.only4.tv/8272/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Russian_Dance_Hits_of_90s" catchup="shift" tvg-logo="http://1lot.tv/ch/8273.png" catchup-days="1" group-title="Музыка",VB Russian Dance Hits of 90s
+http://s.only4.tv/8273/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Dance_hits_of_90s" catchup="shift" tvg-logo="http://1lot.tv/ch/8274.png" catchup-days="1" group-title="Музыка",VB Dance Hits of 90s
+http://s.only4.tv/8274/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Romantic_and_Ballads" catchup="shift" tvg-logo="http://1lot.tv/ch/8275.png" catchup-days="1" group-title="Музыка",VB Romantic and Ballads
+http://s.only4.tv/8275/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Best_Live_Performances" catchup="shift" tvg-logo="http://1lot.tv/ch/8276.png" catchup-days="1" group-title="Музыка",VB Best Live Performances
+http://s.only4.tv/8276/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Dieter_Bohlen_und_Thomas_Anders" catchup="shift" tvg-logo="http://1lot.tv/ch/8277.png" catchup-days="1" group-title="Музыка",VB Modern Talking and Co
+http://s.only4.tv/8277/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8763.png" catchup-days="1" group-title="Музыка",VB Eurodance Hits 90s
+http://s.only4.tv/8763/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8764.png" catchup-days="1" group-title="Музыка",VB MTV Old Россия
+http://s.only4.tv/8764/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/9371.png" catchup-days="1" group-title="Музыка",VB Yo! MTV
+http://s.only4.tv/9371/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="acb-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/8349.png" catchup-days="1" group-title="Музыка",9 Волна
+http://s.only4.tv/8349/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eskatv" catchup="shift" tvg-logo="http://1lot.tv/ch/8838.png" catchup-days="1" group-title="Музыка",Eska TV
+http://s.only4.tv/8838/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="eskatv-rock" catchup="shift" tvg-logo="http://1lot.tv/ch/8840.png" catchup-days="1" group-title="Музыка",Eska Rock TV
+http://s.only4.tv/8840/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8843.png" catchup-days="1" group-title="Музыка",Ocko HD CZ
+http://s.only4.tv/8843/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8844.png" catchup-days="1" group-title="Музыка",Ocko Black CZ
+http://s.only4.tv/8844/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8845.png" catchup-days="1" group-title="Музыка",Ocko Star CZ
+http://s.only4.tv/8845/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8846.png" catchup-days="1" group-title="Музыка",Ocko Expres CZ
+http://s.only4.tv/8846/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8851.png" catchup-days="1" group-title="Музыка",Deluxe Music HD
+http://s.only4.tv/8851/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8856.png" catchup-days="1" group-title="Музыка",Deluxe Rock
+http://s.only4.tv/8856/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8857.png" catchup-days="1" group-title="Музыка",Deluxe Flashback
+http://s.only4.tv/8857/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8858.png" catchup-days="1" group-title="Музыка",Deluxe Dance
+http://s.only4.tv/8858/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8859.png" catchup-days="1" group-title="Музыка",Deluxe Rap
+http://s.only4.tv/8859/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8860.png" catchup-days="1" group-title="Музыка",Deluxe Schlager
+http://s.only4.tv/8860/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8861.png" catchup-days="1" group-title="Музыка",Juice TV NZ
+http://s.only4.tv/8861/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8863.png" catchup-days="1" group-title="Музыка",MUZZIK ZZ
+http://s.only4.tv/8863/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8865.png" catchup-days="1" group-title="Музыка",Новое Радио ТВ
+http://s.only4.tv/8865/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8867.png" catchup-days="1" group-title="Музыка",MadeinBO TV
+http://s.only4.tv/8867/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8868.png" catchup-days="1" group-title="Музыка",V2BEAT TV
+http://s.only4.tv/8868/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8869.png" catchup-days="1" group-title="Музыка",GO TV
+http://s.only4.tv/8869/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8871.png" catchup-days="1" group-title="Музыка",TVM 3
+http://s.only4.tv/8871/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8872.png" catchup-days="1" group-title="Музыка",Now 70s
+http://s.only4.tv/8872/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8873.png" catchup-days="1" group-title="Музыка",Now 80s
+http://s.only4.tv/8873/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="" catchup="shift" tvg-logo="http://1lot.tv/ch/8874.png" catchup-days="1" group-title="Музыка",NOW Rock
+http://s.only4.tv/8874/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="4fun" catchup="shift" tvg-logo="http://1lot.tv/ch/8876.png" catchup-days="1" group-title="Музыка",4Fun TV
+http://s.only4.tv/8876/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8880.png" catchup-days="1" group-title="Музыка",m2o TV
+http://s.only4.tv/8880/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8886.png" catchup-days="1" group-title="Музыка",XITE TV NL
+http://s.only4.tv/8886/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8890.png" catchup-days="1" group-title="Музыка",4 You TV
+http://s.only4.tv/8890/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8891.png" catchup-days="1" group-title="Музыка",Radio Capital TV
+http://s.only4.tv/8891/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8897.png" catchup-days="1" group-title="Музыка",Mooz HITS
+http://s.only4.tv/8897/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8901.png" catchup-days="1" group-title="Музыка",RADIO METAL TV
+http://s.only4.tv/8901/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8916.png" catchup-days="1" group-title="Музыка",Muzzik Rock and Roll
+http://s.only4.tv/8916/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8928.png" catchup-days="1" group-title="Музыка",MUZZIK
+http://s.only4.tv/8928/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8929.png" catchup-days="1" group-title="Музыка",MUZZIK ELECTRO
+http://s.only4.tv/8929/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8930.png" catchup-days="1" group-title="Музыка",MUZZIK FLASHBACK
+http://s.only4.tv/8930/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8931.png" catchup-days="1" group-title="Музыка",MUZZIK JEKA
+http://s.only4.tv/8931/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8932.png" catchup-days="1" group-title="Музыка",MUZZIK MOVA
+http://s.only4.tv/8932/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8933.png" catchup-days="1" group-title="Музыка",MUZZIK MTS
+http://s.only4.tv/8933/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8934.png" catchup-days="1" group-title="Музыка",MUZZIK POP STAR
+http://s.only4.tv/8934/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8935.png" catchup-days="1" group-title="Музыка",MUZZIK SENSE
+http://s.only4.tv/8935/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8936.png" catchup-days="1" group-title="Музыка",MUZZIK TIKTAK
+http://s.only4.tv/8936/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8937.png" catchup-days="1" group-title="Музыка",MUZZIK WWM
+http://s.only4.tv/8937/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/9011.png" catchup-days="1" group-title="Музыка",Black HD UA
+http://s.only4.tv/9011/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="megogo-live" catchup="shift" tvg-logo="http://1lot.tv/ch/9004.png" catchup-days="1" group-title="Музыка",Live HD
+http://s.only4.tv/9004/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayVysotskiy.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9219.png" catchup-days="1" group-title="Музыка",TVPlay Высоцкий HD
+http://s.only4.tv/9219/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="TVPlayRusskiyRok.tv" catchup="shift" tvg-logo="http://1lot.tv/ch/9236.png" catchup-days="1" group-title="Музыка",TVPlay Русский Рок HD
+http://s.only4.tv/9236/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/9262.png" catchup-days="1" group-title="Музыка",Stingray Classica HD
+http://s.only4.tv/9262/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="Gabbarit_Anthem" catchup="shift" tvg-logo="http://1lot.tv/ch/9425.png" catchup-days="1" group-title="Музыка",Gabbarit Anthem
+http://s.only4.tv/9425/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="52_MUZYKA_DJ_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9515.png" catchup-days="1" group-title="Музыка",LIBERTY DJ FHD
+http://s.only4.tv/9515/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="54_MUZYKA_MIKS_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9516.png" catchup-days="1" group-title="Музыка",LIBERTY МУЗЫКА МИКС FHD
+http://s.only4.tv/9516/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="55_MUZYKA_ROK_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9517.png" catchup-days="1" group-title="Музыка",LIBERTY РОК FHD
+http://s.only4.tv/9517/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="53_MUZYKA_DZHAZ_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9518.png" catchup-days="1" group-title="Музыка",LIBERTY ДЖАЗ FHD
+http://s.only4.tv/9518/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="56_MUZYKA_K-POP_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9519.png" catchup-days="1" group-title="Музыка",LIBERTY К-ПОП FHD
+http://s.only4.tv/9519/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="57_MUZYKA_KHIP-KHOP_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9520.png" catchup-days="1" group-title="Музыка",LIBERTY ХИП-ХОП FHD
+http://s.only4.tv/9520/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="58_MUZYKA_KHITY90-X_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9521.png" catchup-days="1" group-title="Музыка",LIBERTY ХИТЫ 90-х FHD
+http://s.only4.tv/9521/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="59_MUZYKA_POP-MUZYKA_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9522.png" catchup-days="1" group-title="Музыка",LIBERTY ПОП-МУЗЫКА FHD
+http://s.only4.tv/9522/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="60_MUZYKA_LATINO_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9523.png" catchup-days="1" group-title="Музыка",LIBERTY ЛАТИНО FHD
+http://s.only4.tv/9523/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="61_MUZYKA_INDI_FHD" catchup="shift" tvg-logo="http://1lot.tv/ch/9524.png" catchup-days="1" group-title="Музыка",LIBERTY ИНДИ FHD
+http://s.only4.tv/9524/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-pershy" catchup="shift" tvg-logo="http://1lot.tv/ch/0196.png" catchup-days="1" group-title="Украинские",Перший
+http://s.only4.tv/0196/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="inter-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1153.png" catchup-days="1" group-title="Украинские",Интер HD
+http://s.only4.tv/1153/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="inter-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0153.png" catchup-days="1" group-title="Украинские",Интер
+http://s.only4.tv/0153/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1plus1" catchup="shift" tvg-logo="http://1lot.tv/ch/5582.png" catchup-days="1" group-title="Украинские",1+1 Марафон HD
+http://s.only4.tv/5582/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1plus1" catchup="shift" tvg-logo="http://1lot.tv/ch/0151.png" catchup-days="1" group-title="Украинские",1+1 Марафон
+http://s.only4.tv/0151/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1plus1-int" catchup="shift" tvg-logo="http://1lot.tv/ch/0195.png" catchup-days="3" group-title="Украинские",1+1 Международный
+http://s.only4.tv/0195/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1plus1-ukraina" catchup="shift" tvg-logo="http://1lot.tv/ch/8610.png" catchup-days="2" group-title="Украинские",1+1 Україна
+http://s.only4.tv/8610/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ictv-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5605.png" catchup-days="1" group-title="Украинские",ICTV HD
+http://s.only4.tv/5605/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ictv-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0159.png" catchup-days="1" group-title="Украинские",ICTV
+http://s.only4.tv/0159/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ictv-ukraine" catchup="shift" tvg-logo="http://1lot.tv/ch/8609.png" catchup-days="2" group-title="Украинские",ICTV2
+http://s.only4.tv/8609/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="novy-kanal-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5603.png" catchup-days="7" group-title="Украинские",Новый канал HD
+http://s.only4.tv/5603/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="novy-kanal-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0194.png" catchup-days="7" group-title="Украинские",Новый канал
+http://s.only4.tv/0194/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="stb-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5604.png" catchup-days="3" group-title="Украинские",СТБ HD
+http://s.only4.tv/5604/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="stb-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0160.png" catchup-days="3" group-title="Украинские",СТБ
+http://s.only4.tv/0160/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tet-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6225.png" catchup-days="7" group-title="Украинские",ТЕТ HD
+http://s.only4.tv/6225/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tet-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0164.png" catchup-days="5" group-title="Украинские",ТЕТ
+http://s.only4.tv/0164/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntn-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1157.png" catchup-days="7" group-title="Украинские",НТН HD
+http://s.only4.tv/1157/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ntn-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0157.png" catchup-days="7" group-title="Украинские",НТН
+http://s.only4.tv/0157/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="5kanal-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0165.png" catchup-days="2" group-title="Украинские",5 канал
+http://s.only4.tv/0165/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mega-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1171.png" catchup-days="1" group-title="Украинские",Мега HD
+http://s.only4.tv/1171/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="mega-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0171.png" catchup-days="1" group-title="Украинские",Мега
+http://s.only4.tv/0171/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="k1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1158.png" catchup-days="5" group-title="Украинские",К1 HD
+http://s.only4.tv/1158/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="k1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0158.png" catchup-days="3" group-title="Украинские",К1
+http://s.only4.tv/0158/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="k2-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1169.png" catchup-days="2" group-title="Украинские",К2 HD
+http://s.only4.tv/1169/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="k2-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0169.png" catchup-days="7" group-title="Украинские",К2
+http://s.only4.tv/0169/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="2plus2" catchup="shift" tvg-logo="http://1lot.tv/ch/6226.png" catchup-days="2" group-title="Украинские",2+2 HD
+http://s.only4.tv/6226/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="2plus2" catchup="shift" tvg-logo="http://1lot.tv/ch/0152.png" catchup-days="7" group-title="Украинские",2+2
+http://s.only4.tv/0152/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zoom-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/1170.png" catchup-days="2" group-title="Украинские",Zoom HD
+http://s.only4.tv/1170/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="zoom-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0170.png" catchup-days="7" group-title="Украинские",Zoom
+http://s.only4.tv/0170/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="enter-film" catchup="shift" tvg-logo="http://1lot.tv/ch/1167.png" catchup-days="1" group-title="Украинские",Enter-фильм HD
+http://s.only4.tv/1167/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="enter-film" catchup="shift" tvg-logo="http://1lot.tv/ch/0167.png" catchup-days="7" group-title="Украинские",Enter-фильм
+http://s.only4.tv/0167/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="plusplus" catchup="shift" tvg-logo="http://1lot.tv/ch/6232.png" catchup-days="1" group-title="Украинские",ПлюсПлюс HD
+http://s.only4.tv/6232/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="plusplus" catchup="shift" tvg-logo="http://1lot.tv/ch/6140.png" catchup-days="1" group-title="Украинские",ПлюсПлюс
+http://s.only4.tv/6140/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="bigudi" catchup="shift" tvg-logo="http://1lot.tv/ch/6145.png" catchup-days="3" group-title="Украинские",Бигуди
+http://s.only4.tv/6145/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="unian-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7698.png" catchup-days="1" group-title="Украинские",Униан ТВ HD
+http://s.only4.tv/7698/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="unian-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6160.png" catchup-days="1" group-title="Украинские",Униан ТВ
+http://s.only4.tv/6160/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kvartal-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6180.png" catchup-days="1" group-title="Украинские",Квартал ТВ
+http://s.only4.tv/6180/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1auto" catchup="shift" tvg-logo="http://1lot.tv/ch/6183.png" catchup-days="7" group-title="Украинские",Первый автомобильный
+http://s.only4.tv/6183/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="lale" catchup="shift" tvg-logo="http://1lot.tv/ch/0189.png" catchup-days="1" group-title="Украинские",Lale
+http://s.only4.tv/0189/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="atr-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0187.png" catchup-days="1" group-title="Украинские",ATR
+http://s.only4.tv/0187/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nadezhda" catchup="shift" tvg-logo="http://1lot.tv/ch/0182.png" catchup-days="1" group-title="Украинские",Надежда
+http://s.only4.tv/0182/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sonce-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0183.png" catchup-days="1" group-title="Украинские",Сонце
+http://s.only4.tv/0183/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rada-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/0186.png" catchup-days="1" group-title="Украинские",Рада
+http://s.only4.tv/0186/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pixel" catchup="shift" tvg-logo="http://1lot.tv/ch/1166.png" catchup-days="1" group-title="Украинские",Пиксель HD
+http://s.only4.tv/1166/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pixel" catchup="shift" tvg-logo="http://1lot.tv/ch/0166.png" catchup-days="1" group-title="Украинские",Пиксель
+http://s.only4.tv/0166/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="priamyj" catchup="shift" tvg-logo="http://1lot.tv/ch/0199.png" catchup-days="1" group-title="Украинские",Прямой HD
+http://s.only4.tv/0199/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pravdatyt-kyiv" catchup="shift" tvg-logo="http://1lot.tv/ch/0178.png" catchup-days="1" group-title="Украинские",Правда ТУТ Київ
+http://s.only4.tv/0178/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="espreso-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/0154.png" catchup-days="1" group-title="Украинские",Еспресо TV
+http://s.only4.tv/0154/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="otse" catchup="shift" tvg-logo="http://1lot.tv/ch/5600.png" catchup-days="7" group-title="Украинские",Оце HD
+http://s.only4.tv/5600/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="otse" catchup="shift" tvg-logo="http://1lot.tv/ch/5538.png" catchup-days="1" group-title="Украинские",Оце
+http://s.only4.tv/5538/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/5607.png" catchup-days="1" group-title="Украинские",TRK Krug
+http://s.only4.tv/5607/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="inter-plus-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/7199.png" catchup-days="1" group-title="Украинские",Интер+ HD
+http://s.only4.tv/7199/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/6550.png" catchup-days="1" group-title="Украинские",FreeДом
+http://s.only4.tv/6550/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="hta" catchup="shift" tvg-logo="http://1lot.tv/ch/6562.png" catchup-days="3" group-title="Украинские",NTA
+http://s.only4.tv/6562/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="z-zapor" catchup="shift" tvg-logo="http://1lot.tv/ch/6555.png" catchup-days="1" group-title="Украинские",МТМ(Запорожье)
+http://s.only4.tv/6555/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/6556.png" catchup-days="1" group-title="Украинские",НТК HD (UA)
+http://s.only4.tv/6556/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="chern-promin-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6612.png" catchup-days="1" group-title="Украинские",Chernivetskyi Promin HD
+http://s.only4.tv/6612/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="tva-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/6613.png" catchup-days="1" group-title="Украинские",TBA
+http://s.only4.tv/6613/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kryvrig" catchup="shift" tvg-logo="http://1lot.tv/ch/6748.png" catchup-days="1" group-title="Украинские",Первый Городской (Кривой Рог)
+http://s.only4.tv/6748/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" catchup="shift" tvg-logo="http://1lot.tv/ch/6749.png" catchup-days="1" group-title="Украинские",Первый Городской (Одесса)
+http://s.only4.tv/6749/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pershy-zaxidny" catchup="shift" tvg-logo="http://1lot.tv/ch/6751.png" catchup-days="1" group-title="Украинские",Первый Западный (Львов)
+http://s.only4.tv/6751/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7670.png" catchup-days="1" group-title="Украинские",33 канал
+http://s.only4.tv/7670/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="apostrof" catchup="shift" tvg-logo="http://1lot.tv/ch/7696.png" catchup-days="1" group-title="Украинские",Апостроф TV HD
+http://s.only4.tv/7696/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="36-6-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7706.png" catchup-days="1" group-title="Украинские",36.6 HD
+http://s.only4.tv/7706/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="epoque" catchup="shift" tvg-logo="http://1lot.tv/ch/7739.png" catchup-days="1" group-title="Украинские",Світло HD
+http://s.only4.tv/7739/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kvartal-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7740.png" catchup-days="1" group-title="Украинские",Квартал ТВ HD
+http://s.only4.tv/7740/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dacha" catchup="shift" tvg-logo="http://1lot.tv/ch/7741.png" catchup-days="2" group-title="Украинские",Дача HD
+http://s.only4.tv/7741/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kus-kus" catchup="shift" tvg-logo="http://1lot.tv/ch/7742.png" catchup-days="2" group-title="Украинские",Кус-кус HD
+http://s.only4.tv/7742/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dom" catchup="shift" tvg-logo="http://1lot.tv/ch/7753.png" catchup-days="2" group-title="Украинские",Дом
+http://s.only4.tv/7753/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="24news-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/7756.png" catchup-days="1" group-title="Украинские",News 24 HD
+http://s.only4.tv/7756/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="24news-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/5573.png" catchup-days="1" group-title="Украинские",News 24
+http://s.only4.tv/5573/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="oboz-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/8022.png" catchup-days="1" group-title="Украинские",Обозреватель HD
+http://s.only4.tv/8022/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="nashe-music-hd" catchup="shift" tvg-logo="http://1lot.tv/ch/8027.png" catchup-days="1" group-title="Украинские",НАШЕ music
+http://s.only4.tv/8027/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ck1-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8122.png" catchup-days="1" group-title="Украинские",СК1 (Житомир)
+http://s.only4.tv/8122/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="sferatv" catchup="shift" tvg-logo="http://1lot.tv/ch/8024.png" catchup-days="1" group-title="Украинские",Сфера ТВ HD
+http://s.only4.tv/8024/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="otb-galychyna" catchup="shift" tvg-logo="http://1lot.tv/ch/8135.png" catchup-days="1" group-title="Украинские",Галичина
+http://s.only4.tv/8135/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="dniprotv" catchup="shift" tvg-logo="http://1lot.tv/ch/8136.png" catchup-days="1" group-title="Украинские",Дніпро ТВ HD
+http://s.only4.tv/8136/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kino-1" catchup="shift" tvg-logo="http://1lot.tv/ch/8147.png" catchup-days="7" group-title="Украинские",Kino 1
+http://s.only4.tv/8147/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="rivne1" catchup="shift" tvg-logo="http://1lot.tv/ch/8155.png" catchup-days="1" group-title="Украинские",Рівне 1
+http://s.only4.tv/8155/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="21-kanal-uzhgorod" catchup="shift" tvg-logo="http://1lot.tv/ch/8157.png" catchup-days="1" group-title="Украинские",21 канал Ужгород
+http://s.only4.tv/8157/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="avers" catchup="shift" tvg-logo="http://1lot.tv/ch/8158.png" catchup-days="1" group-title="Украинские",ТРК Аверс
+http://s.only4.tv/8158/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-kyiv" catchup="shift" tvg-logo="http://1lot.tv/ch/8510.png" catchup-days="1" group-title="Украинские",Суспільне Київ HD
+http://s.only4.tv/8510/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="pravdatyt-kyiv" catchup="shift" tvg-logo="http://1lot.tv/ch/8818.png" catchup-days="1" group-title="Украинские",Правда ТУТ Київ HD
+http://s.only4.tv/8818/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="muzwar" catchup="shift" tvg-logo="http://1lot.tv/ch/8814.png" catchup-days="1" group-title="Украинские",Музвар
+http://s.only4.tv/8814/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_music" catchup="shift" tvg-logo="http://1lot.tv/ch/8813.png" catchup-days="1" group-title="Украинские",UA Music HD
+http://s.only4.tv/8813/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="continent-e" catchup="shift" tvg-logo="http://1lot.tv/ch/8812.png" catchup-days="1" group-title="Украинские",Continent E HD
+http://s.only4.tv/8812/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="milady-television" catchup="shift" tvg-logo="http://1lot.tv/ch/8811.png" catchup-days="1" group-title="Украинские",Milady
+http://s.only4.tv/8811/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-odesa" catchup="shift" tvg-logo="http://1lot.tv/ch/8810.png" catchup-days="1" group-title="Украинские",Суспільне Одеса HD
+http://s.only4.tv/8810/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-kropyvnycky" catchup="shift" tvg-logo="http://1lot.tv/ch/8809.png" catchup-days="1" group-title="Украинские",Суспільне Кропивницький
+http://s.only4.tv/8809/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-volyn" catchup="shift" tvg-logo="http://1lot.tv/ch/8808.png" catchup-days="1" group-title="Украинские",Суспільне Луцьк
+http://s.only4.tv/8808/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-zakarpattia" catchup="shift" tvg-logo="http://1lot.tv/ch/8807.png" catchup-days="1" group-title="Украинские",Суспільне Ужгород
+http://s.only4.tv/8807/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kultura-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8806.png" catchup-days="1" group-title="Украинские",Суспільне Культура HD
+http://s.only4.tv/8806/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kultura-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8805.png" catchup-days="1" group-title="Украинские",Суспільне Культура
+http://s.only4.tv/8805/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-donbas" catchup="shift" tvg-logo="http://1lot.tv/ch/8804.png" catchup-days="1" group-title="Украинские",Суспільне Донбас
+http://s.only4.tv/8804/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-krym" catchup="shift" tvg-logo="http://1lot.tv/ch/8803.png" catchup-days="1" group-title="Украинские",Суспільне Крим
+http://s.only4.tv/8803/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kyiv-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8802.png" catchup-days="1" group-title="Украинские",Київ TV HD
+http://s.only4.tv/8802/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="kyiv-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/8801.png" catchup-days="1" group-title="Украинские",Київ TV
+http://s.only4.tv/8801/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ViasatSci-Fi" catchup="shift" tvg-logo="http://1lot.tv/ch/8991.png" catchup-days="1" group-title="Украинские",Viasat Film Sci-Fi
+http://s.only4.tv/8991/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="svarozhichi" catchup="shift" tvg-logo="http://1lot.tv/ch/9436.png" catchup-days="1" group-title="Украинские",Сварожичі
+http://s.only4.tv/9436/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="my-ukraina" catchup="shift" tvg-logo="http://1lot.tv/ch/9005.png" catchup-days="1" group-title="Украинские",Ми - Україна
+http://s.only4.tv/9005/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ViasatPremiere" catchup="shift" tvg-logo="http://1lot.tv/ch/8992.png" catchup-days="1" group-title="Украинские",Viasat Film Premiere
+http://s.only4.tv/8992/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/9006.png" catchup-days="1" group-title="Украинские",Радио Свобода
+http://s.only4.tv/9006/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ViasatAction" catchup="shift" tvg-logo="http://1lot.tv/ch/8993.png" catchup-days="1" group-title="Украинские",Viasat Film Action
+http://s.only4.tv/8993/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/9008.png" catchup-days="1" group-title="Украинские",Візит HD
+http://s.only4.tv/9008/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="1+1-kino" catchup="shift" tvg-logo="http://1lot.tv/ch/8994.png" catchup-days="1" group-title="Украинские",1+1 Кiно
+http://s.only4.tv/8994/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="armia-tv-ua" catchup="shift" tvg-logo="http://1lot.tv/ch/9009.png" catchup-days="1" group-title="Украинские",Армия ТВ
+http://s.only4.tv/9009/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ua-poltava" catchup="shift" tvg-logo="http://1lot.tv/ch/9010.png" catchup-days="1" group-title="Украинские",Суспільне Полтава
+http://s.only4.tv/9010/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7025.png" catchup-days="1" group-title="Georgia",1 TV Georgia
+http://s.only4.tv/7025/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7026.png" catchup-days="1" group-title="Georgia",GDS TV
+http://s.only4.tv/7026/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7027.png" catchup-days="1" group-title="Georgia",Marneuli  TV
+http://s.only4.tv/7027/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="ajara-tv" catchup="shift" tvg-logo="http://1lot.tv/ch/7029.png" catchup-days="1" group-title="Georgia",Ajara TV HD
+http://s.only4.tv/7029/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7030.png" catchup-days="1" group-title="Georgia",Imedi TV HD
+http://s.only4.tv/7030/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7032.png" catchup-days="1" group-title="Georgia",Mtavari Arkhi HD
+http://s.only4.tv/7032/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7033.png" catchup-days="1" group-title="Georgia",Obieqtivi TV
+http://s.only4.tv/7033/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7034.png" catchup-days="1" group-title="Georgia",TV Pirveli Geo
+http://s.only4.tv/7034/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/7035.png" catchup-days="1" group-title="Georgia",Rustavi 2
+http://s.only4.tv/7035/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8278.png" catchup-days="1" group-title="Georgia",Batumi 2
+http://s.only4.tv/8278/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8279.png" catchup-days="1" group-title="Georgia",Agro TV
+http://s.only4.tv/8279/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8280.png" catchup-days="1" group-title="Georgia",Agrogaremo
+http://s.only4.tv/8280/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8281.png" catchup-days="1" group-title="Georgia",Alt-info
+http://s.only4.tv/8281/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8282.png" catchup-days="1" group-title="Georgia",Argo TV
+http://s.only4.tv/8282/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8283.png" catchup-days="1" group-title="Georgia",Artarea
+http://s.only4.tv/8283/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8284.png" catchup-days="1" group-title="Georgia",BastiBubu
+http://s.only4.tv/8284/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8285.png" catchup-days="1" group-title="Georgia",BatumiTV
+http://s.only4.tv/8285/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8286.png" catchup-days="1" group-title="Georgia",BMG
+http://s.only4.tv/8286/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8287.png" catchup-days="1" group-title="Georgia",BorjomiTV
+http://s.only4.tv/8287/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8288.png" catchup-days="1" group-title="Georgia",Caucasia
+http://s.only4.tv/8288/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8289.png" catchup-days="1" group-title="Georgia",Chadraki TV
+http://s.only4.tv/8289/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8290.png" catchup-days="1" group-title="Georgia",Channel Five
+http://s.only4.tv/8290/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8291.png" catchup-days="1" group-title="Georgia",Comedy
+http://s.only4.tv/8291/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8292.png" catchup-days="1" group-title="Georgia",Dardimandi
+http://s.only4.tv/8292/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8293.png" catchup-days="1" group-title="Georgia",DiaTV
+http://s.only4.tv/8293/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8294.png" catchup-days="1" group-title="Georgia",EgrisiTV
+http://s.only4.tv/8294/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8295.png" catchup-days="1" group-title="Georgia",EnkiBenki
+http://s.only4.tv/8295/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8296.png" catchup-days="1" group-title="Georgia",Ertsulovneba
+http://s.only4.tv/8296/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8297.png" catchup-days="1" group-title="Georgia",EuroNews Georgia
+http://s.only4.tv/8297/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8298.png" catchup-days="1" group-title="Georgia",FormulaTV
+http://s.only4.tv/8298/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8299.png" catchup-days="1" group-title="Georgia",Georgian Times
+http://s.only4.tv/8299/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8300.png" catchup-days="1" group-title="Georgia",Girchi TV
+http://s.only4.tv/8300/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8301.png" catchup-days="1" group-title="Georgia",GreenTV
+http://s.only4.tv/8301/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8302.png" catchup-days="1" group-title="Georgia",Guria TV
+http://s.only4.tv/8302/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8303.png" catchup-days="1" group-title="Georgia",Gurjaani
+http://s.only4.tv/8303/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8304.png" catchup-days="1" group-title="Georgia",TVC
+http://s.only4.tv/8304/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8305.png" catchup-days="1" group-title="Georgia",Imervizia
+http://s.only4.tv/8305/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8306.png" catchup-days="1" group-title="Georgia",Maestro
+http://s.only4.tv/8306/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8307.png" catchup-days="1" group-title="Georgia",Marao
+http://s.only4.tv/8307/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8308.png" catchup-days="1" group-title="Georgia",Meckhre Talgha
+http://s.only4.tv/8308/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8309.png" catchup-days="1" group-title="Georgia",Mega TV
+http://s.only4.tv/8309/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8310.png" catchup-days="1" group-title="Georgia",Music Box GE
+http://s.only4.tv/8310/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8311.png" catchup-days="1" group-title="Georgia",O2
+http://s.only4.tv/8311/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8312.png" catchup-days="1" group-title="Georgia",Odishi TV
+http://s.only4.tv/8312/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8313.png" catchup-days="1" group-title="Georgia",PalitraNews
+http://s.only4.tv/8313/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8314.png" catchup-days="1" group-title="Georgia",Parvana TV
+http://s.only4.tv/8314/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8315.png" catchup-days="1" group-title="Georgia",PK TV
+http://s.only4.tv/8315/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8316.png" catchup-days="1" group-title="Georgia",PosTV
+http://s.only4.tv/8316/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8317.png" catchup-days="1" group-title="Georgia",Prime TV
+http://s.only4.tv/8317/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8318.png" catchup-days="1" group-title="Georgia",Pulsi TV
+http://s.only4.tv/8318/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8319.png" catchup-days="1" group-title="Georgia",Qartuli Arkhi
+http://s.only4.tv/8319/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8320.png" catchup-days="1" group-title="Georgia",QartuliTV
+http://s.only4.tv/8320/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8321.png" catchup-days="1" group-title="Georgia",RagbyTV
+http://s.only4.tv/8321/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8322.png" catchup-days="1" group-title="Georgia",Samepo Arkhi
+http://s.only4.tv/8322/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8323.png" catchup-days="1" group-title="Georgia",Saperavi
+http://s.only4.tv/8323/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8324.png" catchup-days="1" group-title="Georgia",Sdasu TV
+http://s.only4.tv/8324/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta1-ge" catchup="shift" tvg-logo="http://1lot.tv/ch/8325.png" catchup-days="1" group-title="Georgia",Setanta Sports 1 [GE]
+http://s.only4.tv/8325/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="setanta2-ge" catchup="shift" tvg-logo="http://1lot.tv/ch/8326.png" catchup-days="1" group-title="Georgia",Setanta Sports 2 [GE]
+http://s.only4.tv/8326/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg_sport" catchup="shift" tvg-logo="http://1lot.tv/ch/8327.png" catchup-days="1" group-title="Georgia",Setanta Sports 3 [GE]
+http://s.only4.tv/8327/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8328.png" catchup-days="1" group-title="Georgia",SezoniTV
+http://s.only4.tv/8328/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8329.png" catchup-days="1" group-title="Georgia",Shoni
+http://s.only4.tv/8329/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8330.png" catchup-days="1" group-title="Georgia",Silk Universal HD
+http://s.only4.tv/8330/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8331.png" catchup-days="1" group-title="Georgia",Meteo 24
+http://s.only4.tv/8331/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8332.png" catchup-days="1" group-title="Georgia",StereoPlus
+http://s.only4.tv/8332/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8333.png" catchup-days="1" group-title="Georgia",Tafu TV
+http://s.only4.tv/8333/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8334.png" catchup-days="1" group-title="Georgia",Tanamgzavri
+http://s.only4.tv/8334/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8335.png" catchup-days="1" group-title="Georgia",Teleskola
+http://s.only4.tv/8335/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8336.png" catchup-days="1" group-title="Georgia",TokTV
+http://s.only4.tv/8336/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8337.png" catchup-days="1" group-title="Georgia",Trialeti
+http://s.only4.tv/8337/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8338.png" catchup-days="1" group-title="Georgia",TV12
+http://s.only4.tv/8338/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8339.png" catchup-days="1" group-title="Georgia",TV25
+http://s.only4.tv/8339/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8340.png" catchup-days="1" group-title="Georgia",TV9
+http://s.only4.tv/8340/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8341.png" catchup-days="1" group-title="Georgia",Rioni
+http://s.only4.tv/8341/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8342.png" catchup-days="1" group-title="Georgia",TVMonitoringi
+http://s.only4.tv/8342/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8343.png" catchup-days="1" group-title="Georgia",TVMze
+http://s.only4.tv/8343/index.m3u8?token=PgrmaQzfrT
+#EXTINF:-1 tvg-id="no_epg" catchup="shift" tvg-logo="http://1lot.tv/ch/8344.png" catchup-days="1" group-title="Georgia",Eri Media
+http://s.only4.tv/8344/index.m3u8?token=PgrmaQzfrT

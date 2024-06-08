@@ -1,142 +1,157 @@
- (function() {
-    var DOMParser, find, parse;
-  
-    DOMParser = (typeof window !== "undefined" && window !== null ? window.DOMParser : void 0) || (typeof require === "function" ? require('xmldom').DOMParser : void 0) || function() {};
-  
-    find = function(node, list) {
-      var attributes, childNode, childNodeName, childNodes, i, match, x, _i, _j, _ref, _ref1;
-      if (node.hasChildNodes()) {
-        childNodes = node.childNodes;
-        for (i = _i = 0, _ref = childNodes.length; 0 <= _ref ? _i < _ref : _i > _ref; i = 0 <= _ref ? ++_i : --_i) {
-          childNode = childNodes[i];
-          childNodeName = childNode.nodeName;
-          if (/REF/i.test(childNodeName)) {
-            attributes = childNode.attributes;
-            for (x = _j = 0, _ref1 = attributes.length; 0 <= _ref1 ? _j < _ref1 : _j > _ref1; x = 0 <= _ref1 ? ++_j : --_j) {
-              match = attributes[x].nodeName.match(/HREF/i);
-              if (match) {
-                list.push({
-                  file: childNode.getAttribute(match[0]).trim()
-                });
-                break;
-              }
+const { DOMParser } = require('xmldom');
+
+// ASX Parser
+const ASX = (function() {
+  const find = function(node, list) {
+    if (node.hasChildNodes()) {
+      const childNodes = node.childNodes;
+      for (let i = 0; i < childNodes.length; i++) {
+        const childNode = childNodes[i];
+        const childNodeName = childNode.nodeName;
+        if (/REF/i.test(childNodeName)) {
+          const attributes = childNode.attributes;
+          for (let x = 0; x < attributes.length; x++) {
+            const match = attributes[x].nodeName.match(/HREF/i);
+            if (match) {
+              list.push({
+                file: childNode.getAttribute(match[0]).trim()
+              });
+              break;
             }
-          } else if (childNodeName !== '#text') {
-            find(childNode, list);
           }
+        } else if (childNodeName !== '#text') {
+          find(childNode, list);
         }
       }
-      return null;
-    };
-  
-    parse = function(playlist) {
-      var doc, ret;
-      ret = [];
-      doc = (new DOMParser()).parseFromString(playlist, 'text/xml').documentElement;
-      if (!doc) {
-        return ret;
-      }
-      find(doc, ret);
+    }
+    return null;
+  };
+
+  const parse = function(playlist) {
+    const ret = [];
+    const doc = (new DOMParser()).parseFromString(playlist, 'text/xml').documentElement;
+    if (!doc) {
       return ret;
-    };
-  
-    (typeof module !== "undefined" && module !== null ? module.exports : window).ASX = {
-      name: 'asx',
-      parse: parse
-    };
-  
-  }).call(this);
-  
-  (function() {
-    var COMMENT_RE, EXTENDED, comments, empty, extended, parse, simple;
- 
-    EXTENDED = '#EXTM3U';  
-   
-    COMMENT_RE = /:(?:(-?\d+),(.+)\s*-\s*(.+)|(.+))\n(.+)/;
- 
-    extended = function(line) {
-      var match;
-      match = line.match(COMMENT_RE);
+    }
+    find(doc, ret);
+    return ret;
+  };
 
-  
-      if (match && match.length === 6  ) {
-        return {
-          length: match[1] || 0,
-          artist: match[2] || '',
-          title: match[4] || match[3],
-          file: match[5].trim()
-        };
-      }
-      
-    };
-  
-    simple = function(string,line) {
+  return {
+    name: 'asx',
+    parse
+  };
+})();
 
+// M3U Parser
+const M3U = (function() {
+  const EXTENDED = '#EXTM3U';
+  const COMMENT_RE = /:(?:(-?\d+),(.+)\s*-\s*(.+)|(.+))\n(.+)/;
+
+  const extended = function(line) {
+    const match = line.match(COMMENT_RE);
+    if (match && match.length === 6) {
       return {
-      
-        file: string.trim()
+        length: match[1] || 0,
+        artist: match[2] || '',
+        title: match[4] || match[3],
+        file: match[5].trim()
       };
+    }
+  };
+
+  const simple = function(string) {
+    return {
+      file: string.trim()
     };
-  
-    empty = function(line) {
-      return !!line.trim().length;
-    };
-  
-    comments = function(line) {
-      return line[0] !== '#';
-    };
-  
-    parse = function(playlist) {
-      var firstNewline;
-      playlist = playlist.replace(/\r/g, '');
-      firstNewline = playlist.search('\n');
-    
-      if (playlist.startsWith(EXTENDED)) {
-        // Remove lines containing properties
-        playlist = playlist.replace(/(\n|^)([^#\n]+="[^"\n]*\?[^"\n]*")[^\n]*(\n|$)/g, '$1$3');
-    
-        return playlist.substr(firstNewline).split('\n#').filter(empty).map(extended);
-      } else {
-        return playlist.split('\n').filter(empty).filter(comments).map(simple);
-      }
-    };
-  
-    (typeof module !== "undefined" && module !== null ? module.exports : window).M3U = {
-      name: 'm3u',
-      parse: parse
-    };
- 
-  }).call(this);
-  
-  (function() {
-    var LISTING_RE, parse;
-  
-    LISTING_RE = /(file|title|length)(\d+)=(.+)\r?/i;
-  
-    parse = function(playlist) {
-      var index, key, line, match, tracks, value, _, _i, _len, _ref;
-      tracks = [];
-      _ref = playlist.trim().split('\n');
-      for (_i = 0, _len = _ref.length; _i < _len; _i++) {
-        line = _ref[_i];
-        match = line.match(LISTING_RE);
-        if (match && match.length === 4) {
-          _ = match[0], key = match[1], index = match[2], value = match[3];
-          if (!tracks[index]) {
-            tracks[index] = {};
-          }
-          tracks[index][key.toLowerCase()] = value;
+  };
+
+  const empty = function(line) {
+    return !!line.trim().length;
+  };
+
+  const comments = function(line) {
+    return line[0] !== '#';
+  };
+
+  const parse = function(playlist) {
+    playlist = playlist.replace(/\r/g, '');
+    const firstNewline = playlist.search('\n');
+
+    if (playlist.startsWith(EXTENDED)) {
+      playlist = playlist.replace(/(\n|^)([^#\n]+="[^"\n]*\?[^"\n]*")[^\n]*(\n|$)/g, '$1$3');
+      return playlist.substr(firstNewline).split('\n#').filter(empty).map(extended);
+    } else {
+      return playlist.split('\n').filter(empty).filter(comments).map(simple);
+    }
+  };
+
+  return {
+    name: 'm3u',
+    parse
+  };
+})();
+
+// PLS Parser
+const PLS = (function() {
+  const LISTING_RE = /(file|title|length)(\d+)=(.+)\r?/i;
+
+  const parse = function(playlist) {
+    const tracks = [];
+    const lines = playlist.trim().split('\n');
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      const match = line.match(LISTING_RE);
+      if (match && match.length === 4) {
+        const [_, key, index, value] = match;
+        if (!tracks[index]) {
+          tracks[index] = {};
         }
+        tracks[index][key.toLowerCase()] = value;
       }
-      return tracks.filter(function(track) {
-        return track != null;
-      });
-    };
-  
-    (typeof module !== "undefined" && module !== null ? module.exports : window).PLS = {
-      name: 'pls',
-      parse: parse
-    };
-      
-  }).call(this);
-  
+    }
+    return tracks.filter(track => track != null);
+  };
+
+  return {
+    name: 'pls',
+    parse
+  };
+})();
+
+// Unified Parser Interface
+const PlaylistParser = (function() {
+  const parsers = [ASX, M3U, PLS];
+
+  const detectFormat = function(playlist) {
+    if (playlist.startsWith('#EXTM3U')) {
+      return 'm3u';
+    } else if (playlist.includes('[playlist]')) {
+      return 'pls';
+    } else if (playlist.includes('<asx')) {
+      return 'asx';
+    } else {
+      return null;
+    }
+  };
+
+  const parse = function(playlist) {
+    const format = detectFormat(playlist);
+    if (!format) {
+      throw new Error('Unsupported playlist format');
+    }
+    const parser = parsers.find(p => p.name === format);
+    return parser.parse(playlist);
+  };
+
+  return {
+    parse
+  };
+})();
+
+module.exports = PlaylistParser;
+
+// Example usage:
+// const playlist = '...'; // Your playlist content
+// const parsedData = PlaylistParser.parse(playlist);
+// console.log(parsedData);

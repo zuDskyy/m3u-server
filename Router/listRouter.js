@@ -12,7 +12,8 @@ router.get("/playlists/:secretId", async (req,res) => {
         ownerId:{$all: secretId}
     })
     if(!playlist){
-      return  res.status(304).json("You don't have any playlist")
+    res.status(304).json("You don't have any playlist");
+    return;
     }
       
 

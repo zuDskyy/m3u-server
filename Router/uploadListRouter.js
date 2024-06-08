@@ -7,18 +7,19 @@ const helmet = require('helmet');
 const M3ulist = require("../Models/M3ulist");
 const path = require("path");
 const fs = require("fs");
-
+const fsP =require('fs/promises');
 app.use(helmet());
 app.use(morgan("common"));
 
 const m3ufileStorage = multer.diskStorage({
-    destination:(req,file,cb) => {
-        cb(null,  "..", "m3ulist");
-    },
-    filename:(req,file,cb) => {
-        cb(null,req.body.name);
-    }
-})
+  destination: (req, file, cb) => {
+      cb(null, path.join(__dirname, '..', 'm3ulist'));
+  },
+  filename: (req, file, cb) => {
+      cb(null, req.body.name || file.originalname);
+  }
+});
+
 
 const uploadm3ufileStorage = multer({storage: m3ufileStorage})
 
@@ -27,7 +28,8 @@ router.post('/upload/m3ufile', uploadm3ufileStorage.single('file'), async (req,r
 
     try{  
          if(!secret_id && !list_name ){
-            return res.status(400).json("Invalid Parameters or Something else");
+             res.status(400).json("Invalid Parameters or Something else");
+             return;
          }
         
           const playlist = new M3ulist({
@@ -36,10 +38,12 @@ router.post('/upload/m3ufile', uploadm3ufileStorage.single('file'), async (req,r
              ownerId:secret_id,
           })
        const playlistSaver = await playlist.save();
-        return res.status(200).json({playlist: playlistSaver, Message: "M3u file upload successfully !"});
+   
+
+      res.status(200).json({playlist: playlistSaver, Message: "M3u file upload successfully !"});
     }catch(err){
         console.log("err", err)
-        return res.status(500).json("File is not uploaded")
+      res.status(500).json("File is not uploaded")
     }  
 })
 
@@ -59,19 +63,21 @@ router.delete('/delete/m3ufile/:id', async (req, res) => {
         fs.unlink(filePath, async (err) => {
           if (err) {
             console.error(err);
-            return res.status(500).json("Error deleting the file");
+             res.status(500).json("Error deleting the file");
+             return;
           }
       
           await M3ulist.findByIdAndRemove(id);
-          return res.status(200).json("File deleted successfully");
+         res.status(200).json("File deleted successfully");
         });
       } else {
         // File does not exist
-        return res.status(404).json("File not found");
+         res.status(404).json("File not found");
+         return;
       } 
     } catch (err) {
       console.error(err);
-      return res.status(500).json("Error deleting the file");
+       res.status(500).json("Error deleting the file");
     }
   });
 

@@ -1,8 +1,8 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
-var parsers = require("./m3uParser");
-var M3U = parsers.M3U;
+const PlaylistParser = require("./m3uParser");
+
 const uploadListRoute  = require('./Router/uploadListRouter')
 const userSecretRoute = require('./Router/userSecretRouter');
 const listRoute = require('./Router/listRouter');
@@ -39,7 +39,7 @@ app.use("/api", uploadListRoute);
 app.get('/:originalName', (req,res) => {
   const {originalName} = req.params
   try{
-    res.send(M3U.parse(fs.readFileSync(path.join(__dirname, `./m3ulist/${originalName}`), { encoding: "utf8" })))    
+    res.send(PlaylistParser.parse(fs.readFileSync(path.join(__dirname, `m3ulist/${originalName}`), { encoding: "utf8" })))    
   }catch(err){
     res.status(500).json("no such file or directory")
   }
